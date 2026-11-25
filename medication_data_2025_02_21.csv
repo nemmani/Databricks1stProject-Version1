@@ -1,0 +1,401 @@
+patient_id,test_name,result,normal_range,test_date,lab_name
+P_0,Blood Test,Normal,4.0 - 10.0 x10^9/L,2024-08-03,LabCorp
+P_1,MRI,Normal,No abnormalities,2024-05-21,MedLab
+P_2,CT Scan,Abnormal,No abnormalities,2024-04-04,LabCorp
+P_3,MRI,Abnormal,No fractures,2024-10-30,Quest Diagnostics
+P_4,X-Ray,Borderline,4.0 - 10.0 x10^9/L,2024-06-24,Quest Diagnostics
+P_5,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-07-04,Quest Diagnostics
+P_6,Blood Test,Abnormal,pH 4.5 - 8.0,2024-08-30,LabCorp
+P_7,Blood Test,Borderline,No fractures,2024-04-08,MedLab
+P_8,Urine Test,Normal,No tumors,2024-08-17,CityLab
+P_9,MRI,Abnormal,4.0 - 10.0 x10^9/L,2024-11-23,LabCorp
+P_10,Urine Test,Normal,No tumors,2025-01-01,MedLab
+P_11,X-Ray,Normal,pH 4.5 - 8.0,2024-08-08,Quest Diagnostics
+P_12,X-Ray,Normal,No abnormalities,2024-09-24,Quest Diagnostics
+P_13,CT Scan,Normal,No tumors,2024-09-07,LabCorp
+P_14,MRI,Normal,No abnormalities,2024-04-18,CityLab
+P_15,CT Scan,Abnormal,No abnormalities,2024-04-12,CityLab
+P_16,X-Ray,Borderline,No abnormalities,2024-05-21,CityLab
+P_17,MRI,Normal,No tumors,2024-04-09,LabCorp
+P_18,Blood Test,Abnormal,No abnormalities,2024-07-04,MedLab
+P_19,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-12-10,CityLab
+P_20,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-11-10,MedLab
+P_21,Blood Test,Abnormal,pH 4.5 - 8.0,2024-03-05,CityLab
+P_22,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-09-22,MedLab
+P_23,X-Ray,Borderline,No tumors,2024-07-24,CityLab
+P_24,X-Ray,Abnormal,No fractures,2024-07-15,CityLab
+P_25,Urine Test,Normal,No tumors,2024-11-30,MedLab
+P_26,MRI,Borderline,pH 4.5 - 8.0,2024-11-22,Quest Diagnostics
+P_27,X-Ray,Normal,No abnormalities,2024-04-28,MedLab
+P_28,MRI,Abnormal,No abnormalities,2024-04-30,CityLab
+P_29,MRI,Borderline,4.0 - 10.0 x10^9/L,2024-10-19,CityLab
+P_30,Blood Test,Normal,No tumors,2024-03-16,CityLab
+P_31,CT Scan,Normal,4.0 - 10.0 x10^9/L,2024-05-19,Quest Diagnostics
+P_32,X-Ray,Abnormal,No abnormalities,2024-12-11,CityLab
+P_33,MRI,Borderline,No tumors,2024-08-26,LabCorp
+P_34,X-Ray,Borderline,pH 4.5 - 8.0,2024-02-22,LabCorp
+P_35,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2025-02-04,Quest Diagnostics
+P_36,Urine Test,Normal,pH 4.5 - 8.0,2024-04-29,CityLab
+P_37,CT Scan,Abnormal,4.0 - 10.0 x10^9/L,2024-04-06,LabCorp
+P_38,MRI,Abnormal,No tumors,2024-03-13,Quest Diagnostics
+P_39,X-Ray,Abnormal,No tumors,2024-11-19,Quest Diagnostics
+P_40,MRI,Abnormal,pH 4.5 - 8.0,2024-05-11,CityLab
+P_41,Urine Test,Normal,4.0 - 10.0 x10^9/L,2024-10-30,LabCorp
+P_42,X-Ray,Borderline,No tumors,2024-03-24,MedLab
+P_43,CT Scan,Borderline,No tumors,2025-02-08,LabCorp
+P_44,Urine Test,Borderline,No fractures,2025-02-09,LabCorp
+P_45,CT Scan,Normal,No abnormalities,2024-11-26,CityLab
+P_46,CT Scan,Borderline,No fractures,2024-02-28,LabCorp
+P_47,MRI,Borderline,pH 4.5 - 8.0,2024-09-23,Quest Diagnostics
+P_48,CT Scan,Borderline,pH 4.5 - 8.0,2024-10-21,LabCorp
+P_49,X-Ray,Normal,No fractures,2025-01-08,Quest Diagnostics
+P_50,Urine Test,Abnormal,No tumors,2024-05-30,CityLab
+P_51,MRI,Borderline,4.0 - 10.0 x10^9/L,2024-08-03,CityLab
+P_52,MRI,Abnormal,No abnormalities,2024-11-05,LabCorp
+P_53,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-07-18,MedLab
+P_54,X-Ray,Normal,No fractures,2024-05-14,CityLab
+P_55,Blood Test,Normal,No tumors,2024-10-06,MedLab
+P_56,Blood Test,Normal,No fractures,2024-04-01,LabCorp
+P_57,Urine Test,Borderline,No abnormalities,2024-05-13,Quest Diagnostics
+P_58,MRI,Normal,4.0 - 10.0 x10^9/L,2024-03-10,Quest Diagnostics
+P_59,X-Ray,Abnormal,No tumors,2024-07-14,Quest Diagnostics
+P_60,Blood Test,Borderline,4.0 - 10.0 x10^9/L,2024-10-20,Quest Diagnostics
+P_61,Urine Test,Abnormal,No tumors,2024-12-13,MedLab
+P_62,Urine Test,Abnormal,pH 4.5 - 8.0,2024-11-09,Quest Diagnostics
+P_63,Blood Test,Abnormal,No fractures,2025-02-03,Quest Diagnostics
+P_64,Urine Test,Borderline,No fractures,2024-12-22,CityLab
+P_65,Urine Test,Normal,pH 4.5 - 8.0,2024-12-04,MedLab
+P_66,Blood Test,Normal,4.0 - 10.0 x10^9/L,2024-04-12,CityLab
+P_67,MRI,Borderline,4.0 - 10.0 x10^9/L,2024-04-22,LabCorp
+P_68,Urine Test,Borderline,4.0 - 10.0 x10^9/L,2025-01-13,Quest Diagnostics
+P_69,MRI,Abnormal,No tumors,2024-07-25,LabCorp
+P_70,Blood Test,Abnormal,pH 4.5 - 8.0,2024-06-08,LabCorp
+P_71,X-Ray,Borderline,pH 4.5 - 8.0,2024-08-07,CityLab
+P_72,X-Ray,Abnormal,No fractures,2024-04-28,CityLab
+P_73,Urine Test,Borderline,pH 4.5 - 8.0,2024-08-01,MedLab
+P_74,Blood Test,Normal,No abnormalities,2024-09-09,MedLab
+P_75,CT Scan,Normal,No abnormalities,2024-12-22,MedLab
+P_76,MRI,Abnormal,No tumors,2024-12-08,CityLab
+P_77,MRI,Borderline,No fractures,2024-06-03,Quest Diagnostics
+P_78,MRI,Normal,No tumors,2024-05-21,LabCorp
+P_79,X-Ray,Normal,No tumors,2024-02-27,MedLab
+P_80,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-12-27,CityLab
+P_81,MRI,Abnormal,pH 4.5 - 8.0,2024-07-24,Quest Diagnostics
+P_82,Blood Test,Normal,No tumors,2024-09-30,MedLab
+P_83,X-Ray,Borderline,No abnormalities,2024-05-09,CityLab
+P_84,MRI,Abnormal,4.0 - 10.0 x10^9/L,2024-08-05,CityLab
+P_85,CT Scan,Abnormal,pH 4.5 - 8.0,2024-05-12,Quest Diagnostics
+P_86,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-09-12,Quest Diagnostics
+P_87,X-Ray,Borderline,4.0 - 10.0 x10^9/L,2024-06-27,CityLab
+P_88,Blood Test,Borderline,No fractures,2024-10-20,LabCorp
+P_89,Urine Test,Borderline,pH 4.5 - 8.0,2024-04-15,CityLab
+P_90,CT Scan,Abnormal,No abnormalities,2024-05-20,MedLab
+P_91,X-Ray,Borderline,No fractures,2024-08-01,MedLab
+P_92,X-Ray,Borderline,pH 4.5 - 8.0,2024-03-11,CityLab
+P_93,X-Ray,Abnormal,pH 4.5 - 8.0,2024-03-13,CityLab
+P_94,X-Ray,Normal,pH 4.5 - 8.0,2024-02-22,CityLab
+P_95,X-Ray,Abnormal,No tumors,2024-05-03,Quest Diagnostics
+P_96,Blood Test,Abnormal,pH 4.5 - 8.0,2024-09-17,CityLab
+P_97,Blood Test,Abnormal,No fractures,2024-12-09,MedLab
+P_98,CT Scan,Abnormal,No abnormalities,2024-02-21,CityLab
+P_99,MRI,Abnormal,4.0 - 10.0 x10^9/L,2024-05-16,CityLab
+P_100,X-Ray,Borderline,4.0 - 10.0 x10^9/L,2024-09-15,CityLab
+P_101,MRI,Normal,No abnormalities,2024-04-01,MedLab
+P_102,Blood Test,Borderline,No tumors,2024-10-16,CityLab
+P_103,MRI,Normal,4.0 - 10.0 x10^9/L,2024-06-18,Quest Diagnostics
+P_104,CT Scan,Abnormal,pH 4.5 - 8.0,2025-02-02,Quest Diagnostics
+P_105,Blood Test,Borderline,pH 4.5 - 8.0,2024-12-03,Quest Diagnostics
+P_106,CT Scan,Normal,pH 4.5 - 8.0,2024-06-21,MedLab
+P_107,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-02-26,MedLab
+P_108,MRI,Borderline,No abnormalities,2024-06-11,MedLab
+P_109,Blood Test,Abnormal,No abnormalities,2024-02-29,CityLab
+P_110,Urine Test,Borderline,pH 4.5 - 8.0,2024-12-12,CityLab
+P_111,Urine Test,Borderline,No abnormalities,2024-06-22,Quest Diagnostics
+P_112,Urine Test,Normal,pH 4.5 - 8.0,2025-01-27,LabCorp
+P_113,Blood Test,Borderline,No tumors,2024-03-11,CityLab
+P_114,Blood Test,Abnormal,No tumors,2024-06-13,CityLab
+P_115,CT Scan,Normal,4.0 - 10.0 x10^9/L,2024-04-07,LabCorp
+P_116,X-Ray,Abnormal,No abnormalities,2024-07-09,LabCorp
+P_117,CT Scan,Abnormal,No fractures,2024-03-04,Quest Diagnostics
+P_118,CT Scan,Borderline,No fractures,2024-04-13,Quest Diagnostics
+P_119,Urine Test,Normal,No tumors,2024-12-12,LabCorp
+P_120,MRI,Borderline,No abnormalities,2024-11-04,Quest Diagnostics
+P_121,Blood Test,Borderline,pH 4.5 - 8.0,2024-03-18,CityLab
+P_122,MRI,Abnormal,No tumors,2024-05-10,CityLab
+P_123,X-Ray,Abnormal,No fractures,2024-08-16,LabCorp
+P_124,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-10-21,MedLab
+P_125,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-02-24,LabCorp
+P_126,CT Scan,Borderline,No fractures,2024-06-07,LabCorp
+P_127,Blood Test,Abnormal,pH 4.5 - 8.0,2024-06-03,CityLab
+P_128,CT Scan,Normal,No abnormalities,2024-04-02,LabCorp
+P_129,Urine Test,Normal,pH 4.5 - 8.0,2025-02-10,CityLab
+P_130,MRI,Abnormal,4.0 - 10.0 x10^9/L,2024-07-30,LabCorp
+P_131,Blood Test,Abnormal,No abnormalities,2024-10-15,Quest Diagnostics
+P_132,CT Scan,Borderline,No abnormalities,2024-10-28,Quest Diagnostics
+P_133,MRI,Borderline,pH 4.5 - 8.0,2025-01-30,CityLab
+P_134,Blood Test,Normal,No tumors,2024-11-30,Quest Diagnostics
+P_135,Blood Test,Abnormal,No abnormalities,2024-05-05,LabCorp
+P_136,MRI,Borderline,pH 4.5 - 8.0,2024-11-13,Quest Diagnostics
+P_137,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-09-24,LabCorp
+P_138,Blood Test,Normal,pH 4.5 - 8.0,2024-08-11,CityLab
+P_139,X-Ray,Abnormal,pH 4.5 - 8.0,2024-09-06,CityLab
+P_140,X-Ray,Borderline,No fractures,2024-06-23,Quest Diagnostics
+P_141,CT Scan,Abnormal,pH 4.5 - 8.0,2024-12-28,Quest Diagnostics
+P_142,Blood Test,Abnormal,pH 4.5 - 8.0,2024-11-03,CityLab
+P_143,CT Scan,Normal,No fractures,2025-01-31,MedLab
+P_144,Blood Test,Normal,No abnormalities,2024-12-03,MedLab
+P_145,X-Ray,Normal,No fractures,2024-12-17,CityLab
+P_146,Urine Test,Normal,No abnormalities,2025-01-16,LabCorp
+P_147,Blood Test,Borderline,No abnormalities,2024-06-06,MedLab
+P_148,CT Scan,Borderline,No fractures,2024-10-06,Quest Diagnostics
+P_149,Blood Test,Abnormal,No fractures,2025-01-10,Quest Diagnostics
+P_150,Urine Test,Borderline,No fractures,2024-11-17,CityLab
+P_151,MRI,Borderline,No tumors,2024-10-09,LabCorp
+P_152,Blood Test,Normal,No fractures,2024-03-15,CityLab
+P_153,X-Ray,Abnormal,No abnormalities,2024-05-24,LabCorp
+P_154,MRI,Normal,4.0 - 10.0 x10^9/L,2024-11-05,CityLab
+P_155,CT Scan,Normal,No fractures,2024-02-29,MedLab
+P_156,Urine Test,Borderline,pH 4.5 - 8.0,2024-05-29,CityLab
+P_157,Blood Test,Borderline,No fractures,2024-12-20,MedLab
+P_158,MRI,Normal,No tumors,2024-03-29,MedLab
+P_159,Blood Test,Abnormal,No fractures,2025-01-16,MedLab
+P_160,Blood Test,Abnormal,No fractures,2024-11-03,Quest Diagnostics
+P_161,X-Ray,Borderline,pH 4.5 - 8.0,2025-02-02,Quest Diagnostics
+P_162,Blood Test,Abnormal,4.0 - 10.0 x10^9/L,2024-08-02,MedLab
+P_163,MRI,Borderline,No tumors,2024-10-15,CityLab
+P_164,Urine Test,Normal,4.0 - 10.0 x10^9/L,2024-05-14,LabCorp
+P_165,X-Ray,Abnormal,No fractures,2024-04-28,MedLab
+P_166,MRI,Borderline,No tumors,2024-04-13,CityLab
+P_167,MRI,Borderline,No tumors,2024-07-08,MedLab
+P_168,MRI,Normal,pH 4.5 - 8.0,2024-03-31,CityLab
+P_169,Urine Test,Borderline,No abnormalities,2024-11-27,Quest Diagnostics
+P_170,X-Ray,Abnormal,pH 4.5 - 8.0,2024-10-15,MedLab
+P_171,Urine Test,Abnormal,No abnormalities,2024-11-06,Quest Diagnostics
+P_172,MRI,Abnormal,No fractures,2024-12-25,MedLab
+P_173,Blood Test,Normal,pH 4.5 - 8.0,2024-08-02,LabCorp
+P_174,Blood Test,Abnormal,4.0 - 10.0 x10^9/L,2024-11-19,CityLab
+P_175,Urine Test,Abnormal,No fractures,2024-03-28,MedLab
+P_176,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-09-29,CityLab
+P_177,Blood Test,Borderline,No abnormalities,2024-08-16,Quest Diagnostics
+P_178,CT Scan,Abnormal,4.0 - 10.0 x10^9/L,2024-09-27,MedLab
+P_179,X-Ray,Borderline,4.0 - 10.0 x10^9/L,2024-09-23,CityLab
+P_180,Blood Test,Borderline,No tumors,2025-01-24,LabCorp
+P_181,Urine Test,Normal,No abnormalities,2024-09-17,MedLab
+P_182,X-Ray,Borderline,pH 4.5 - 8.0,2024-07-09,Quest Diagnostics
+P_183,Blood Test,Abnormal,pH 4.5 - 8.0,2024-07-18,MedLab
+P_184,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-12-02,LabCorp
+P_185,Urine Test,Borderline,4.0 - 10.0 x10^9/L,2025-01-20,Quest Diagnostics
+P_186,CT Scan,Abnormal,No abnormalities,2024-11-14,CityLab
+P_187,MRI,Abnormal,pH 4.5 - 8.0,2024-07-18,LabCorp
+P_188,CT Scan,Abnormal,pH 4.5 - 8.0,2024-06-10,CityLab
+P_189,MRI,Borderline,No abnormalities,2024-12-16,MedLab
+P_190,CT Scan,Abnormal,pH 4.5 - 8.0,2024-07-04,CityLab
+P_191,Urine Test,Abnormal,No tumors,2024-03-18,MedLab
+P_192,X-Ray,Abnormal,No abnormalities,2024-07-17,Quest Diagnostics
+P_193,CT Scan,Normal,4.0 - 10.0 x10^9/L,2024-05-04,LabCorp
+P_194,X-Ray,Abnormal,No abnormalities,2024-09-08,CityLab
+P_195,X-Ray,Abnormal,pH 4.5 - 8.0,2024-06-27,LabCorp
+P_196,Blood Test,Borderline,pH 4.5 - 8.0,2024-04-29,Quest Diagnostics
+P_197,MRI,Abnormal,No fractures,2024-12-23,LabCorp
+P_198,Blood Test,Abnormal,No abnormalities,2024-05-12,MedLab
+P_199,Urine Test,Normal,pH 4.5 - 8.0,2024-05-28,CityLab
+P_200,MRI,Abnormal,No fractures,2024-08-29,Quest Diagnostics
+P_201,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-03-30,LabCorp
+P_202,Blood Test,Abnormal,4.0 - 10.0 x10^9/L,2024-08-31,Quest Diagnostics
+P_203,Urine Test,Borderline,4.0 - 10.0 x10^9/L,2024-08-06,LabCorp
+P_204,X-Ray,Normal,No tumors,2024-05-20,LabCorp
+P_205,CT Scan,Normal,4.0 - 10.0 x10^9/L,2024-12-08,CityLab
+P_206,X-Ray,Borderline,4.0 - 10.0 x10^9/L,2024-05-24,MedLab
+P_207,Urine Test,Normal,No abnormalities,2025-01-07,CityLab
+P_208,Blood Test,Borderline,No tumors,2025-01-23,MedLab
+P_209,Urine Test,Borderline,No abnormalities,2024-09-16,MedLab
+P_210,CT Scan,Normal,pH 4.5 - 8.0,2025-02-03,CityLab
+P_211,MRI,Abnormal,No fractures,2024-10-03,MedLab
+P_212,MRI,Abnormal,4.0 - 10.0 x10^9/L,2024-12-06,Quest Diagnostics
+P_213,X-Ray,Borderline,No tumors,2024-05-19,MedLab
+P_214,Blood Test,Normal,No fractures,2024-09-06,CityLab
+P_215,Blood Test,Abnormal,pH 4.5 - 8.0,2024-12-24,MedLab
+P_216,X-Ray,Abnormal,pH 4.5 - 8.0,2025-01-16,Quest Diagnostics
+P_217,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-03-13,CityLab
+P_218,Urine Test,Borderline,pH 4.5 - 8.0,2024-08-11,MedLab
+P_219,CT Scan,Normal,pH 4.5 - 8.0,2024-12-08,LabCorp
+P_220,Blood Test,Abnormal,4.0 - 10.0 x10^9/L,2025-01-28,LabCorp
+P_221,CT Scan,Borderline,No tumors,2024-09-10,MedLab
+P_222,Urine Test,Borderline,No fractures,2024-04-22,LabCorp
+P_223,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2025-02-02,MedLab
+P_224,Blood Test,Normal,pH 4.5 - 8.0,2024-12-31,Quest Diagnostics
+P_225,MRI,Borderline,pH 4.5 - 8.0,2024-11-09,CityLab
+P_226,Blood Test,Abnormal,No tumors,2024-12-16,LabCorp
+P_227,X-Ray,Normal,pH 4.5 - 8.0,2024-08-22,CityLab
+P_228,Urine Test,Borderline,4.0 - 10.0 x10^9/L,2024-12-05,LabCorp
+P_229,X-Ray,Normal,No tumors,2024-06-22,MedLab
+P_230,Blood Test,Borderline,pH 4.5 - 8.0,2024-02-24,Quest Diagnostics
+P_231,Urine Test,Abnormal,No abnormalities,2024-09-28,LabCorp
+P_232,CT Scan,Borderline,pH 4.5 - 8.0,2024-05-06,MedLab
+P_233,Urine Test,Abnormal,No fractures,2024-04-30,MedLab
+P_234,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-12-19,CityLab
+P_235,Blood Test,Abnormal,No fractures,2025-02-09,MedLab
+P_236,X-Ray,Abnormal,No abnormalities,2024-05-02,MedLab
+P_237,Blood Test,Abnormal,4.0 - 10.0 x10^9/L,2024-05-15,Quest Diagnostics
+P_238,X-Ray,Borderline,No tumors,2024-09-12,MedLab
+P_239,Blood Test,Borderline,No fractures,2024-06-05,LabCorp
+P_240,Blood Test,Normal,4.0 - 10.0 x10^9/L,2024-05-18,MedLab
+P_241,MRI,Normal,No fractures,2024-12-15,CityLab
+P_242,X-Ray,Borderline,No abnormalities,2024-12-05,MedLab
+P_243,Urine Test,Normal,No abnormalities,2024-03-18,MedLab
+P_244,X-Ray,Abnormal,4.0 - 10.0 x10^9/L,2024-04-13,Quest Diagnostics
+P_245,Urine Test,Normal,pH 4.5 - 8.0,2024-05-18,CityLab
+P_246,CT Scan,Abnormal,No tumors,2024-12-31,CityLab
+P_247,CT Scan,Borderline,No abnormalities,2024-04-14,MedLab
+P_248,CT Scan,Borderline,pH 4.5 - 8.0,2024-07-02,LabCorp
+P_249,Urine Test,Abnormal,No tumors,2024-09-01,Quest Diagnostics
+P_250,CT Scan,Abnormal,4.0 - 10.0 x10^9/L,2024-09-11,MedLab
+P_251,Urine Test,Borderline,4.0 - 10.0 x10^9/L,2024-03-18,MedLab
+P_252,Blood Test,Abnormal,No tumors,2024-09-27,LabCorp
+P_253,MRI,Normal,No abnormalities,2024-10-12,CityLab
+P_254,Blood Test,Normal,4.0 - 10.0 x10^9/L,2024-06-15,CityLab
+P_255,X-Ray,Normal,No fractures,2024-04-25,CityLab
+P_256,MRI,Borderline,No abnormalities,2024-05-06,Quest Diagnostics
+P_257,X-Ray,Abnormal,No fractures,2025-01-04,LabCorp
+P_258,X-Ray,Borderline,pH 4.5 - 8.0,2024-07-05,CityLab
+P_259,Urine Test,Borderline,No tumors,2024-09-01,CityLab
+P_260,Blood Test,Normal,No fractures,2024-07-28,CityLab
+P_261,Urine Test,Normal,pH 4.5 - 8.0,2024-09-17,LabCorp
+P_262,X-Ray,Normal,pH 4.5 - 8.0,2024-05-14,MedLab
+P_263,Urine Test,Normal,4.0 - 10.0 x10^9/L,2025-01-06,MedLab
+P_264,CT Scan,Normal,No tumors,2025-01-30,Quest Diagnostics
+P_265,Blood Test,Abnormal,No fractures,2024-08-10,Quest Diagnostics
+P_266,X-Ray,Abnormal,pH 4.5 - 8.0,2024-11-10,LabCorp
+P_267,MRI,Borderline,4.0 - 10.0 x10^9/L,2024-08-09,CityLab
+P_268,CT Scan,Normal,No abnormalities,2025-02-09,Quest Diagnostics
+P_269,Blood Test,Abnormal,No tumors,2024-03-04,MedLab
+P_270,Blood Test,Borderline,No tumors,2024-05-06,Quest Diagnostics
+P_271,Blood Test,Borderline,No fractures,2024-09-21,CityLab
+P_272,Blood Test,Borderline,No abnormalities,2024-05-29,LabCorp
+P_273,Blood Test,Normal,pH 4.5 - 8.0,2024-11-14,CityLab
+P_274,X-Ray,Normal,4.0 - 10.0 x10^9/L,2024-10-31,CityLab
+P_275,CT Scan,Abnormal,No abnormalities,2024-11-28,MedLab
+P_276,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-08-05,MedLab
+P_277,CT Scan,Normal,No tumors,2024-04-11,MedLab
+P_278,CT Scan,Normal,No tumors,2024-04-10,Quest Diagnostics
+P_279,CT Scan,Borderline,pH 4.5 - 8.0,2024-11-14,LabCorp
+P_280,MRI,Abnormal,No tumors,2024-10-26,LabCorp
+P_281,CT Scan,Abnormal,No abnormalities,2024-06-03,Quest Diagnostics
+P_282,X-Ray,Normal,pH 4.5 - 8.0,2024-10-15,CityLab
+P_283,Blood Test,Abnormal,No abnormalities,2024-06-03,MedLab
+P_284,Urine Test,Abnormal,No tumors,2024-07-20,CityLab
+P_285,CT Scan,Normal,No fractures,2024-04-09,CityLab
+P_286,X-Ray,Abnormal,No tumors,2024-05-21,Quest Diagnostics
+P_287,Urine Test,Borderline,No fractures,2024-08-24,Quest Diagnostics
+P_288,Urine Test,Borderline,No abnormalities,2024-05-24,MedLab
+P_289,CT Scan,Abnormal,No fractures,2025-01-31,LabCorp
+P_290,X-Ray,Borderline,No abnormalities,2025-01-24,MedLab
+P_291,CT Scan,Normal,No tumors,2024-06-22,CityLab
+P_292,CT Scan,Normal,No fractures,2024-12-16,CityLab
+P_293,MRI,Normal,4.0 - 10.0 x10^9/L,2024-10-02,MedLab
+P_294,Blood Test,Normal,No fractures,2024-05-31,Quest Diagnostics
+P_295,Blood Test,Normal,No abnormalities,2024-10-31,Quest Diagnostics
+P_296,X-Ray,Abnormal,4.0 - 10.0 x10^9/L,2024-05-28,CityLab
+P_297,Urine Test,Abnormal,No tumors,2024-06-08,CityLab
+P_298,MRI,Abnormal,No fractures,2024-08-29,LabCorp
+P_299,X-Ray,Normal,No abnormalities,2024-11-15,CityLab
+P_300,Blood Test,Abnormal,pH 4.5 - 8.0,2024-07-31,Quest Diagnostics
+P_301,MRI,Abnormal,No abnormalities,2024-10-13,Quest Diagnostics
+P_302,X-Ray,Borderline,No tumors,2024-05-08,MedLab
+P_303,MRI,Abnormal,No fractures,2024-10-29,MedLab
+P_304,Blood Test,Borderline,No fractures,2024-12-09,CityLab
+P_305,Urine Test,Normal,No abnormalities,2024-08-22,Quest Diagnostics
+P_306,Blood Test,Normal,No fractures,2024-04-30,LabCorp
+P_307,X-Ray,Abnormal,No fractures,2024-08-13,CityLab
+P_308,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-11-07,MedLab
+P_309,CT Scan,Abnormal,No abnormalities,2024-03-28,Quest Diagnostics
+P_310,MRI,Abnormal,pH 4.5 - 8.0,2024-03-02,LabCorp
+P_311,CT Scan,Normal,pH 4.5 - 8.0,2025-01-24,CityLab
+P_312,X-Ray,Abnormal,No tumors,2025-01-27,Quest Diagnostics
+P_313,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-03-28,LabCorp
+P_314,CT Scan,Normal,No abnormalities,2025-02-05,CityLab
+P_315,Blood Test,Borderline,No tumors,2024-07-21,MedLab
+P_316,MRI,Borderline,4.0 - 10.0 x10^9/L,2024-08-21,CityLab
+P_317,MRI,Borderline,pH 4.5 - 8.0,2024-08-25,Quest Diagnostics
+P_318,X-Ray,Borderline,No fractures,2024-02-26,CityLab
+P_319,X-Ray,Abnormal,No tumors,2024-12-19,Quest Diagnostics
+P_320,Urine Test,Normal,4.0 - 10.0 x10^9/L,2024-05-17,Quest Diagnostics
+P_321,X-Ray,Borderline,No fractures,2024-12-10,LabCorp
+P_322,MRI,Borderline,pH 4.5 - 8.0,2024-07-19,CityLab
+P_323,MRI,Normal,No tumors,2024-07-18,LabCorp
+P_324,Blood Test,Abnormal,No fractures,2024-12-03,MedLab
+P_325,X-Ray,Normal,No abnormalities,2024-11-20,Quest Diagnostics
+P_326,Blood Test,Borderline,No fractures,2024-02-28,MedLab
+P_327,CT Scan,Normal,No abnormalities,2025-01-11,Quest Diagnostics
+P_328,X-Ray,Borderline,No abnormalities,2024-07-13,CityLab
+P_329,CT Scan,Normal,pH 4.5 - 8.0,2024-10-25,LabCorp
+P_330,CT Scan,Borderline,No fractures,2024-12-25,Quest Diagnostics
+P_331,Blood Test,Normal,No abnormalities,2024-11-30,MedLab
+P_332,Blood Test,Abnormal,4.0 - 10.0 x10^9/L,2024-03-31,Quest Diagnostics
+P_333,Urine Test,Borderline,No abnormalities,2024-05-09,CityLab
+P_334,X-Ray,Borderline,No abnormalities,2024-10-16,LabCorp
+P_335,MRI,Normal,No fractures,2024-09-05,Quest Diagnostics
+P_336,Urine Test,Abnormal,No fractures,2024-10-21,LabCorp
+P_337,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-07-11,LabCorp
+P_338,CT Scan,Abnormal,No tumors,2024-06-14,MedLab
+P_339,CT Scan,Abnormal,pH 4.5 - 8.0,2024-09-26,LabCorp
+P_340,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-10-25,LabCorp
+P_341,CT Scan,Normal,No abnormalities,2025-01-22,LabCorp
+P_342,Urine Test,Borderline,4.0 - 10.0 x10^9/L,2024-08-07,Quest Diagnostics
+P_343,Blood Test,Abnormal,No abnormalities,2024-05-06,LabCorp
+P_344,Blood Test,Borderline,4.0 - 10.0 x10^9/L,2024-06-30,MedLab
+P_345,Blood Test,Abnormal,4.0 - 10.0 x10^9/L,2024-08-05,LabCorp
+P_346,Blood Test,Normal,No tumors,2024-06-12,Quest Diagnostics
+P_347,X-Ray,Normal,No fractures,2024-10-09,Quest Diagnostics
+P_348,MRI,Abnormal,4.0 - 10.0 x10^9/L,2024-04-29,MedLab
+P_349,Urine Test,Borderline,No tumors,2025-01-16,CityLab
+P_350,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2025-01-17,Quest Diagnostics
+P_351,Urine Test,Normal,No abnormalities,2024-12-02,MedLab
+P_352,MRI,Abnormal,No fractures,2024-10-06,CityLab
+P_353,Blood Test,Borderline,4.0 - 10.0 x10^9/L,2024-12-24,CityLab
+P_354,Blood Test,Borderline,No tumors,2024-03-31,CityLab
+P_355,CT Scan,Normal,No fractures,2024-06-03,LabCorp
+P_356,Blood Test,Normal,No tumors,2024-08-30,MedLab
+P_357,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-04-27,LabCorp
+P_358,X-Ray,Abnormal,pH 4.5 - 8.0,2025-01-18,Quest Diagnostics
+P_359,Blood Test,Borderline,pH 4.5 - 8.0,2024-03-24,CityLab
+P_360,MRI,Normal,No fractures,2024-10-03,Quest Diagnostics
+P_361,MRI,Borderline,No tumors,2024-08-19,CityLab
+P_362,CT Scan,Normal,No abnormalities,2024-11-22,CityLab
+P_363,X-Ray,Borderline,pH 4.5 - 8.0,2024-09-10,Quest Diagnostics
+P_364,CT Scan,Abnormal,No fractures,2024-04-30,LabCorp
+P_365,Urine Test,Abnormal,No abnormalities,2024-08-05,LabCorp
+P_366,Blood Test,Abnormal,No fractures,2024-04-07,Quest Diagnostics
+P_367,CT Scan,Borderline,4.0 - 10.0 x10^9/L,2024-10-25,CityLab
+P_368,Blood Test,Borderline,No abnormalities,2024-04-16,MedLab
+P_369,Urine Test,Normal,No fractures,2024-09-25,MedLab
+P_370,Urine Test,Normal,4.0 - 10.0 x10^9/L,2024-11-02,LabCorp
+P_371,X-Ray,Normal,No fractures,2024-10-26,LabCorp
+P_372,MRI,Borderline,No fractures,2024-12-13,Quest Diagnostics
+P_373,Urine Test,Borderline,No tumors,2024-10-01,MedLab
+P_374,Urine Test,Abnormal,No fractures,2024-08-15,Quest Diagnostics
+P_375,Urine Test,Abnormal,4.0 - 10.0 x10^9/L,2024-03-24,Quest Diagnostics
+P_376,Urine Test,Borderline,No abnormalities,2024-11-14,CityLab
+P_377,Blood Test,Abnormal,No fractures,2024-07-09,LabCorp
+P_378,X-Ray,Abnormal,No tumors,2024-04-26,CityLab
+P_379,CT Scan,Abnormal,No fractures,2024-06-04,CityLab
+P_380,X-Ray,Normal,pH 4.5 - 8.0,2024-06-24,MedLab
+P_381,MRI,Abnormal,No fractures,2024-04-21,MedLab
+P_382,MRI,Normal,No abnormalities,2024-05-08,CityLab
+P_383,Urine Test,Abnormal,No tumors,2024-04-08,LabCorp
+P_384,MRI,Normal,No tumors,2025-02-02,Quest Diagnostics
+P_385,MRI,Abnormal,No tumors,2024-03-07,MedLab
+P_386,MRI,Borderline,No abnormalities,2024-07-18,Quest Diagnostics
+P_387,MRI,Abnormal,No fractures,2024-05-03,Quest Diagnostics
+P_388,CT Scan,Normal,No tumors,2025-01-31,Quest Diagnostics
+P_389,Urine Test,Borderline,No fractures,2024-10-01,Quest Diagnostics
+P_390,X-Ray,Normal,No abnormalities,2024-11-11,Quest Diagnostics
+P_391,MRI,Borderline,No tumors,2024-05-24,MedLab
+P_392,X-Ray,Borderline,pH 4.5 - 8.0,2024-05-13,Quest Diagnostics
+P_393,CT Scan,Abnormal,4.0 - 10.0 x10^9/L,2024-05-30,MedLab
+P_394,Urine Test,Abnormal,No abnormalities,2024-09-15,LabCorp
+P_395,CT Scan,Abnormal,No fractures,2024-12-05,MedLab
+P_396,MRI,Abnormal,No fractures,2024-04-30,Quest Diagnostics
+P_397,Urine Test,Borderline,4.0 - 10.0 x10^9/L,2024-05-23,CityLab
+P_398,Blood Test,Borderline,No abnormalities,2024-10-12,LabCorp
+P_399,Blood Test,Normal,pH 4.5 - 8.0,2024-12-19,CityLab

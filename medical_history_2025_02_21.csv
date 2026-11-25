@@ -1,0 +1,401 @@
+patient_id,condition,diagnosis_date,doctor_name,hospital_name,ongoing_treatment
+P_0,Obesity,2023-01-09,Dr. Johnson,St. Mary’s Hospital,Y
+P_1,Asthma,2019-08-31,Dr. Lee,General Hospital,Y
+P_2,Heart Disease,2024-08-08,Dr. Patel,City Clinic,Yes
+P_3,Migraine,2022-10-01,Dr. Smith,City Clinic,No
+P_4,Asthma,2021-06-15,Dr. Smith,HealthCare Center,No
+P_5,Arthritis,2023-10-12,Dr. Smith,City Clinic,Y
+P_6,Arthritis,2022-04-22,Dr. Smith,HealthCare Center,Yes
+P_7,Arthritis,2024-04-08,Dr. Lee,City Clinic,No
+P_8,Asthma,2023-12-01,Dr. Lee,HealthCare Center,No
+P_9,Heart Disease,2023-10-31,Dr. Patel,City Clinic,Y
+P_10,Hypertension,2024-03-01,Dr. Patel,City Clinic,No
+P_11,Migraine,2022-10-14,Dr. Brown,City Clinic,No
+P_12,Arthritis,2019-12-21,Dr. Johnson,General Hospital,No
+P_13,Asthma,2024-07-31,Dr. Brown,City Clinic,Y
+P_14,Obesity,2022-05-18,Dr. Smith,General Hospital,Yes
+P_15,Hypertension,2024-06-22,Dr. Brown,General Hospital,No
+P_16,Diabetes,2021-08-07,Dr. Johnson,City Clinic,Y
+P_17,Asthma,2024-03-09,Dr. Lee,St. Mary’s Hospital,Y
+P_18,Obesity,2021-06-01,Dr. Johnson,HealthCare Center,Y
+P_19,Arthritis,2019-10-04,Dr. Brown,City Clinic,No
+P_20,Migraine,2021-01-27,Dr. Patel,General Hospital,No
+P_21,Diabetes,2022-10-18,Dr. Patel,HealthCare Center,No
+P_22,Asthma,2022-05-07,Dr. Lee,St. Mary’s Hospital,Y
+P_23,Arthritis,2021-06-18,Dr. Johnson,St. Mary’s Hospital,No
+P_24,Hypertension,2022-09-20,Dr. Johnson,HealthCare Center,Yes
+P_25,Heart Disease,2023-11-04,Dr. Johnson,HealthCare Center,Y
+P_26,Arthritis,2020-06-23,Dr. Brown,City Clinic,No
+P_27,Obesity,2019-12-14,Dr. Johnson,St. Mary’s Hospital,Yes
+P_28,Migraine,2022-01-31,Dr. Johnson,City Clinic,Y
+P_29,Hypertension,2024-04-09,Dr. Brown,St. Mary’s Hospital,Y
+P_30,Diabetes,2021-09-30,Dr. Brown,City Clinic,Yes
+P_31,Diabetes,2021-07-05,Dr. Johnson,General Hospital,No
+P_32,Diabetes,2023-06-03,Dr. Smith,General Hospital,No
+P_33,Heart Disease,2020-02-02,Dr. Smith,HealthCare Center,No
+P_34,Hypertension,2024-04-25,Dr. Johnson,St. Mary’s Hospital,Yes
+P_35,Arthritis,2020-07-15,Dr. Smith,St. Mary’s Hospital,No
+P_36,Hypertension,2024-06-14,Dr. Johnson,General Hospital,No
+P_37,Migraine,2020-09-12,Dr. Smith,General Hospital,Yes
+P_38,Asthma,2024-10-04,Dr. Smith,City Clinic,Y
+P_39,Hypertension,2024-10-15,Dr. Smith,HealthCare Center,Yes
+P_40,Heart Disease,2023-09-11,Dr. Johnson,General Hospital,Y
+P_41,Obesity,2020-11-14,Dr. Smith,City Clinic,Yes
+P_42,Hypertension,2024-05-06,Dr. Patel,City Clinic,No
+P_43,Diabetes,2024-07-27,Dr. Lee,St. Mary’s Hospital,Yes
+P_44,Asthma,2023-08-22,Dr. Johnson,General Hospital,Y
+P_45,Obesity,2024-05-05,Dr. Johnson,City Clinic,Yes
+P_46,Asthma,2021-03-22,Dr. Lee,City Clinic,No
+P_47,Heart Disease,2022-07-26,Dr. Patel,HealthCare Center,Yes
+P_48,Migraine,2021-01-13,Dr. Patel,City Clinic,Yes
+P_49,Hypertension,2021-07-01,Dr. Brown,City Clinic,Y
+P_50,Migraine,2023-10-18,Dr. Smith,St. Mary’s Hospital,Yes
+P_51,Hypertension,2019-10-31,Dr. Lee,General Hospital,Y
+P_52,Obesity,2023-09-22,Dr. Johnson,St. Mary’s Hospital,Y
+P_53,Diabetes,2020-09-14,Dr. Brown,City Clinic,Y
+P_54,Obesity,2019-09-18,Dr. Johnson,City Clinic,No
+P_55,Migraine,2019-10-23,Dr. Patel,St. Mary’s Hospital,Y
+P_56,Migraine,2020-01-03,Dr. Patel,HealthCare Center,Yes
+P_57,Asthma,2020-12-16,Dr. Patel,City Clinic,Yes
+P_58,Hypertension,2019-11-21,Dr. Patel,St. Mary’s Hospital,No
+P_59,Diabetes,2023-08-29,Dr. Smith,St. Mary’s Hospital,Yes
+P_60,Hypertension,2021-03-28,Dr. Patel,General Hospital,Y
+P_61,Obesity,2022-09-30,Dr. Brown,General Hospital,Yes
+P_62,Migraine,2019-10-15,Dr. Brown,St. Mary’s Hospital,Yes
+P_63,Heart Disease,2019-11-02,Dr. Smith,HealthCare Center,Y
+P_64,Heart Disease,2021-02-04,Dr. Lee,General Hospital,No
+P_65,Hypertension,2021-11-21,Dr. Patel,St. Mary’s Hospital,Y
+P_66,Migraine,2024-04-05,Dr. Brown,St. Mary’s Hospital,No
+P_67,Migraine,2019-10-26,Dr. Smith,City Clinic,No
+P_68,Asthma,2024-11-11,Dr. Patel,City Clinic,Yes
+P_69,Hypertension,2023-11-13,Dr. Smith,General Hospital,Y
+P_70,Heart Disease,2024-01-04,Dr. Johnson,General Hospital,No
+P_71,Diabetes,2021-05-17,Dr. Smith,HealthCare Center,No
+P_72,Arthritis,2023-06-20,Dr. Lee,HealthCare Center,No
+P_73,Migraine,2024-01-28,Dr. Lee,General Hospital,No
+P_74,Diabetes,2024-01-26,Dr. Patel,HealthCare Center,Yes
+P_75,Arthritis,2019-12-22,Dr. Lee,HealthCare Center,Yes
+P_76,Migraine,2023-03-26,Dr. Smith,City Clinic,Y
+P_77,Arthritis,2023-01-13,Dr. Patel,City Clinic,Yes
+P_78,Heart Disease,2021-07-17,Dr. Johnson,City Clinic,No
+P_79,Migraine,2019-11-07,Dr. Lee,St. Mary’s Hospital,Yes
+P_80,Obesity,2020-03-26,Dr. Brown,City Clinic,Yes
+P_81,Obesity,2021-03-17,Dr. Smith,City Clinic,Y
+P_82,Migraine,2023-02-21,Dr. Patel,St. Mary’s Hospital,Yes
+P_83,Obesity,2024-01-17,Dr. Smith,City Clinic,No
+P_84,Asthma,2022-07-05,Dr. Brown,General Hospital,Y
+P_85,Heart Disease,2024-06-22,Dr. Johnson,City Clinic,No
+P_86,Migraine,2022-05-03,Dr. Brown,City Clinic,Y
+P_87,Heart Disease,2020-01-31,Dr. Smith,City Clinic,Yes
+P_88,Obesity,2024-03-01,Dr. Johnson,St. Mary’s Hospital,Y
+P_89,Heart Disease,2022-11-08,Dr. Smith,General Hospital,Y
+P_90,Migraine,2020-05-07,Dr. Smith,General Hospital,Y
+P_91,Arthritis,2024-11-12,Dr. Patel,City Clinic,Yes
+P_92,Asthma,2020-12-20,Dr. Brown,St. Mary’s Hospital,Y
+P_93,Hypertension,2021-10-17,Dr. Smith,St. Mary’s Hospital,Y
+P_94,Heart Disease,2023-12-16,Dr. Smith,General Hospital,Y
+P_95,Arthritis,2021-11-26,Dr. Smith,City Clinic,Y
+P_96,Obesity,2022-08-11,Dr. Lee,General Hospital,Y
+P_97,Obesity,2023-06-28,Dr. Johnson,General Hospital,Yes
+P_98,Heart Disease,2023-12-18,Dr. Lee,City Clinic,Y
+P_99,Diabetes,2021-08-11,Dr. Brown,St. Mary’s Hospital,Y
+P_100,Migraine,2023-05-23,Dr. Smith,St. Mary’s Hospital,Y
+P_101,Arthritis,2022-03-20,Dr. Brown,General Hospital,No
+P_102,Obesity,2021-09-14,Dr. Johnson,St. Mary’s Hospital,Yes
+P_103,Heart Disease,2024-09-04,Dr. Brown,City Clinic,Y
+P_104,Migraine,2023-01-23,Dr. Brown,General Hospital,Y
+P_105,Hypertension,2020-02-06,Dr. Johnson,St. Mary’s Hospital,Yes
+P_106,Arthritis,2023-02-10,Dr. Lee,St. Mary’s Hospital,Y
+P_107,Diabetes,2022-11-14,Dr. Johnson,City Clinic,Yes
+P_108,Asthma,2023-08-09,Dr. Johnson,City Clinic,Y
+P_109,Asthma,2021-05-19,Dr. Patel,HealthCare Center,Y
+P_110,Hypertension,2020-12-06,Dr. Johnson,HealthCare Center,Y
+P_111,Diabetes,2022-09-20,Dr. Smith,General Hospital,Y
+P_112,Diabetes,2020-07-14,Dr. Smith,HealthCare Center,No
+P_113,Arthritis,2021-12-23,Dr. Lee,General Hospital,No
+P_114,Asthma,2020-06-20,Dr. Brown,General Hospital,No
+P_115,Diabetes,2022-03-04,Dr. Smith,General Hospital,No
+P_116,Migraine,2024-07-22,Dr. Brown,General Hospital,Y
+P_117,Migraine,2022-04-15,Dr. Brown,City Clinic,Y
+P_118,Arthritis,2024-10-19,Dr. Brown,HealthCare Center,Yes
+P_119,Obesity,2023-03-25,Dr. Johnson,St. Mary’s Hospital,Y
+P_120,Heart Disease,2021-01-25,Dr. Johnson,City Clinic,Y
+P_121,Hypertension,2023-09-02,Dr. Johnson,City Clinic,No
+P_122,Asthma,2021-03-14,Dr. Johnson,HealthCare Center,Y
+P_123,Obesity,2023-01-06,Dr. Brown,City Clinic,No
+P_124,Migraine,2022-03-31,Dr. Lee,HealthCare Center,Yes
+P_125,Hypertension,2019-09-17,Dr. Smith,HealthCare Center,Y
+P_126,Hypertension,2024-01-04,Dr. Lee,City Clinic,Yes
+P_127,Migraine,2023-03-26,Dr. Smith,St. Mary’s Hospital,No
+P_128,Asthma,2024-10-18,Dr. Smith,City Clinic,Y
+P_129,Arthritis,2021-04-24,Dr. Lee,HealthCare Center,No
+P_130,Obesity,2022-05-19,Dr. Brown,General Hospital,Yes
+P_131,Migraine,2021-08-04,Dr. Johnson,HealthCare Center,No
+P_132,Diabetes,2022-12-22,Dr. Smith,City Clinic,Y
+P_133,Migraine,2022-01-21,Dr. Patel,General Hospital,Yes
+P_134,Migraine,2019-10-11,Dr. Johnson,General Hospital,No
+P_135,Asthma,2022-10-15,Dr. Brown,City Clinic,Y
+P_136,Arthritis,2023-05-01,Dr. Patel,City Clinic,Yes
+P_137,Hypertension,2022-06-12,Dr. Smith,HealthCare Center,No
+P_138,Diabetes,2023-06-06,Dr. Patel,HealthCare Center,Y
+P_139,Arthritis,2023-03-13,Dr. Smith,St. Mary’s Hospital,Yes
+P_140,Obesity,2024-01-31,Dr. Johnson,General Hospital,No
+P_141,Heart Disease,2023-03-25,Dr. Patel,City Clinic,Yes
+P_142,Hypertension,2020-10-27,Dr. Patel,HealthCare Center,Yes
+P_143,Diabetes,2022-02-26,Dr. Lee,City Clinic,No
+P_144,Diabetes,2023-02-17,Dr. Smith,St. Mary’s Hospital,Yes
+P_145,Asthma,2023-03-07,Dr. Patel,St. Mary’s Hospital,No
+P_146,Obesity,2021-09-13,Dr. Lee,HealthCare Center,Yes
+P_147,Diabetes,2020-11-09,Dr. Brown,City Clinic,No
+P_148,Obesity,2020-12-05,Dr. Smith,General Hospital,Y
+P_149,Diabetes,2024-03-13,Dr. Smith,City Clinic,No
+P_150,Hypertension,2019-09-03,Dr. Smith,HealthCare Center,No
+P_151,Asthma,2020-01-29,Dr. Brown,General Hospital,No
+P_152,Obesity,2023-10-28,Dr. Smith,St. Mary’s Hospital,No
+P_153,Arthritis,2023-12-30,Dr. Johnson,St. Mary’s Hospital,Yes
+P_154,Arthritis,2024-04-22,Dr. Lee,General Hospital,Yes
+P_155,Asthma,2022-06-09,Dr. Smith,St. Mary’s Hospital,No
+P_156,Arthritis,2023-01-27,Dr. Patel,St. Mary’s Hospital,No
+P_157,Diabetes,2020-08-08,Dr. Brown,General Hospital,Y
+P_158,Obesity,2023-09-22,Dr. Brown,General Hospital,Yes
+P_159,Asthma,2022-04-23,Dr. Lee,HealthCare Center,Yes
+P_160,Migraine,2020-12-20,Dr. Patel,St. Mary’s Hospital,Yes
+P_161,Migraine,2023-12-30,Dr. Patel,City Clinic,Y
+P_162,Diabetes,2021-04-09,Dr. Lee,General Hospital,Y
+P_163,Asthma,2019-09-08,Dr. Johnson,General Hospital,Y
+P_164,Diabetes,2021-11-04,Dr. Johnson,St. Mary’s Hospital,Y
+P_165,Migraine,2023-05-06,Dr. Patel,HealthCare Center,No
+P_166,Migraine,2023-05-02,Dr. Smith,St. Mary’s Hospital,Yes
+P_167,Asthma,2022-10-15,Dr. Patel,City Clinic,No
+P_168,Heart Disease,2024-07-30,Dr. Patel,St. Mary’s Hospital,Y
+P_169,Obesity,2023-10-06,Dr. Johnson,General Hospital,Y
+P_170,Heart Disease,2020-06-05,Dr. Lee,St. Mary’s Hospital,Yes
+P_171,Hypertension,2020-06-18,Dr. Johnson,HealthCare Center,Yes
+P_172,Hypertension,2020-11-14,Dr. Johnson,St. Mary’s Hospital,Yes
+P_173,Obesity,2022-01-06,Dr. Lee,General Hospital,Yes
+P_174,Diabetes,2024-10-28,Dr. Johnson,St. Mary’s Hospital,Yes
+P_175,Asthma,2022-12-16,Dr. Smith,HealthCare Center,Y
+P_176,Migraine,2021-08-09,Dr. Patel,St. Mary’s Hospital,Y
+P_177,Migraine,2022-09-30,Dr. Johnson,City Clinic,No
+P_178,Migraine,2022-07-16,Dr. Smith,St. Mary’s Hospital,Y
+P_179,Obesity,2023-02-17,Dr. Smith,City Clinic,Yes
+P_180,Heart Disease,2024-11-09,Dr. Smith,General Hospital,Y
+P_181,Hypertension,2023-01-26,Dr. Brown,HealthCare Center,Yes
+P_182,Heart Disease,2023-07-24,Dr. Smith,General Hospital,No
+P_183,Arthritis,2023-05-09,Dr. Smith,HealthCare Center,No
+P_184,Asthma,2020-12-08,Dr. Patel,General Hospital,No
+P_185,Hypertension,2022-12-15,Dr. Lee,General Hospital,Yes
+P_186,Obesity,2022-01-09,Dr. Lee,HealthCare Center,No
+P_187,Asthma,2020-01-31,Dr. Smith,General Hospital,No
+P_188,Obesity,2019-12-24,Dr. Brown,St. Mary’s Hospital,Yes
+P_189,Heart Disease,2022-08-01,Dr. Lee,HealthCare Center,Y
+P_190,Arthritis,2019-12-04,Dr. Patel,St. Mary’s Hospital,No
+P_191,Diabetes,2022-10-10,Dr. Lee,General Hospital,No
+P_192,Obesity,2021-01-15,Dr. Johnson,HealthCare Center,Yes
+P_193,Heart Disease,2020-08-31,Dr. Johnson,City Clinic,Yes
+P_194,Obesity,2021-08-02,Dr. Patel,City Clinic,No
+P_195,Asthma,2023-08-16,Dr. Lee,St. Mary’s Hospital,Y
+P_196,Obesity,2022-03-16,Dr. Johnson,HealthCare Center,Yes
+P_197,Heart Disease,2024-08-19,Dr. Brown,HealthCare Center,No
+P_198,Diabetes,2021-12-25,Dr. Lee,HealthCare Center,No
+P_199,Obesity,2022-02-25,Dr. Lee,HealthCare Center,Y
+P_200,Diabetes,2021-10-21,Dr. Lee,City Clinic,Yes
+P_201,Diabetes,2020-11-15,Dr. Brown,City Clinic,Yes
+P_202,Heart Disease,2022-07-21,Dr. Johnson,General Hospital,No
+P_203,Arthritis,2023-04-28,Dr. Patel,St. Mary’s Hospital,Yes
+P_204,Hypertension,2022-10-29,Dr. Patel,HealthCare Center,No
+P_205,Arthritis,2023-07-12,Dr. Smith,St. Mary’s Hospital,Yes
+P_206,Heart Disease,2021-02-17,Dr. Brown,City Clinic,Y
+P_207,Diabetes,2022-01-31,Dr. Smith,St. Mary’s Hospital,Y
+P_208,Diabetes,2020-12-26,Dr. Smith,City Clinic,Yes
+P_209,Diabetes,2020-03-14,Dr. Brown,General Hospital,Y
+P_210,Diabetes,2021-10-29,Dr. Johnson,General Hospital,Yes
+P_211,Asthma,2022-12-05,Dr. Brown,General Hospital,Y
+P_212,Migraine,2020-11-02,Dr. Lee,City Clinic,Y
+P_213,Obesity,2021-11-09,Dr. Patel,City Clinic,No
+P_214,Hypertension,2024-01-28,Dr. Johnson,General Hospital,Y
+P_215,Heart Disease,2022-12-05,Dr. Lee,General Hospital,Y
+P_216,Obesity,2023-09-17,Dr. Patel,General Hospital,No
+P_217,Obesity,2021-09-21,Dr. Smith,St. Mary’s Hospital,Y
+P_218,Obesity,2022-06-23,Dr. Johnson,St. Mary’s Hospital,No
+P_219,Heart Disease,2019-11-16,Dr. Patel,General Hospital,Yes
+P_220,Arthritis,2020-10-10,Dr. Lee,City Clinic,Yes
+P_221,Arthritis,2022-06-05,Dr. Lee,General Hospital,Y
+P_222,Heart Disease,2022-11-24,Dr. Lee,General Hospital,Yes
+P_223,Asthma,2022-02-11,Dr. Smith,HealthCare Center,Y
+P_224,Obesity,2021-10-20,Dr. Smith,St. Mary’s Hospital,Yes
+P_225,Obesity,2021-02-20,Dr. Smith,City Clinic,Yes
+P_226,Asthma,2019-09-21,Dr. Patel,St. Mary’s Hospital,Y
+P_227,Hypertension,2022-12-08,Dr. Brown,HealthCare Center,No
+P_228,Asthma,2023-08-29,Dr. Patel,St. Mary’s Hospital,Y
+P_229,Arthritis,2024-06-11,Dr. Brown,St. Mary’s Hospital,Yes
+P_230,Hypertension,2019-10-11,Dr. Smith,HealthCare Center,Y
+P_231,Hypertension,2022-09-18,Dr. Smith,HealthCare Center,Yes
+P_232,Migraine,2022-02-20,Dr. Brown,General Hospital,No
+P_233,Hypertension,2022-10-23,Dr. Patel,HealthCare Center,No
+P_234,Obesity,2023-07-16,Dr. Smith,St. Mary’s Hospital,Yes
+P_235,Migraine,2023-02-05,Dr. Lee,General Hospital,Yes
+P_236,Migraine,2022-09-15,Dr. Lee,HealthCare Center,No
+P_237,Migraine,2023-11-12,Dr. Smith,General Hospital,No
+P_238,Migraine,2021-07-31,Dr. Smith,City Clinic,Yes
+P_239,Hypertension,2022-04-27,Dr. Smith,HealthCare Center,No
+P_240,Migraine,2021-01-05,Dr. Brown,HealthCare Center,Yes
+P_241,Hypertension,2020-08-06,Dr. Lee,General Hospital,Yes
+P_242,Arthritis,2021-09-19,Dr. Smith,General Hospital,Y
+P_243,Obesity,2024-08-11,Dr. Johnson,St. Mary’s Hospital,Yes
+P_244,Heart Disease,2023-04-14,Dr. Lee,St. Mary’s Hospital,Y
+P_245,Heart Disease,2023-06-04,Dr. Brown,St. Mary’s Hospital,No
+P_246,Asthma,2024-09-08,Dr. Brown,St. Mary’s Hospital,Y
+P_247,Hypertension,2023-05-20,Dr. Johnson,HealthCare Center,Y
+P_248,Asthma,2024-06-03,Dr. Smith,General Hospital,Yes
+P_249,Heart Disease,2024-04-11,Dr. Smith,City Clinic,Yes
+P_250,Migraine,2021-06-02,Dr. Smith,St. Mary’s Hospital,Yes
+P_251,Asthma,2021-05-16,Dr. Patel,St. Mary’s Hospital,Y
+P_252,Migraine,2020-05-12,Dr. Lee,St. Mary’s Hospital,Yes
+P_253,Diabetes,2021-08-07,Dr. Johnson,HealthCare Center,Yes
+P_254,Asthma,2021-01-21,Dr. Johnson,St. Mary’s Hospital,No
+P_255,Diabetes,2022-07-28,Dr. Patel,HealthCare Center,Y
+P_256,Hypertension,2020-03-11,Dr. Brown,City Clinic,Y
+P_257,Migraine,2021-09-23,Dr. Patel,St. Mary’s Hospital,Y
+P_258,Arthritis,2024-01-05,Dr. Patel,HealthCare Center,Yes
+P_259,Hypertension,2022-10-18,Dr. Johnson,General Hospital,Y
+P_260,Arthritis,2022-03-26,Dr. Lee,City Clinic,Y
+P_261,Heart Disease,2021-11-05,Dr. Lee,St. Mary’s Hospital,Yes
+P_262,Heart Disease,2021-07-02,Dr. Patel,St. Mary’s Hospital,Yes
+P_263,Asthma,2020-07-05,Dr. Johnson,General Hospital,Y
+P_264,Hypertension,2022-01-15,Dr. Brown,City Clinic,Y
+P_265,Hypertension,2024-01-19,Dr. Smith,St. Mary’s Hospital,Y
+P_266,Obesity,2020-04-26,Dr. Smith,City Clinic,No
+P_267,Heart Disease,2020-07-17,Dr. Johnson,General Hospital,No
+P_268,Migraine,2024-02-14,Dr. Lee,General Hospital,Y
+P_269,Asthma,2019-10-01,Dr. Brown,HealthCare Center,No
+P_270,Arthritis,2022-10-27,Dr. Lee,St. Mary’s Hospital,No
+P_271,Asthma,2021-02-21,Dr. Brown,City Clinic,Y
+P_272,Heart Disease,2020-03-03,Dr. Patel,St. Mary’s Hospital,Y
+P_273,Diabetes,2020-07-09,Dr. Smith,General Hospital,Yes
+P_274,Asthma,2021-11-07,Dr. Patel,HealthCare Center,Yes
+P_275,Asthma,2023-07-17,Dr. Johnson,St. Mary’s Hospital,Y
+P_276,Obesity,2021-03-25,Dr. Lee,St. Mary’s Hospital,Y
+P_277,Arthritis,2022-06-30,Dr. Patel,City Clinic,Yes
+P_278,Arthritis,2023-09-18,Dr. Johnson,St. Mary’s Hospital,Y
+P_279,Asthma,2024-10-24,Dr. Patel,City Clinic,No
+P_280,Diabetes,2023-08-30,Dr. Patel,St. Mary’s Hospital,No
+P_281,Heart Disease,2022-05-17,Dr. Smith,City Clinic,No
+P_282,Heart Disease,2023-07-24,Dr. Smith,City Clinic,Y
+P_283,Diabetes,2023-09-10,Dr. Patel,City Clinic,No
+P_284,Obesity,2023-04-13,Dr. Smith,General Hospital,Y
+P_285,Diabetes,2020-08-12,Dr. Smith,St. Mary’s Hospital,Yes
+P_286,Obesity,2021-10-29,Dr. Patel,City Clinic,Yes
+P_287,Heart Disease,2022-11-10,Dr. Smith,St. Mary’s Hospital,No
+P_288,Heart Disease,2021-06-02,Dr. Lee,City Clinic,No
+P_289,Hypertension,2020-09-03,Dr. Brown,City Clinic,Yes
+P_290,Heart Disease,2020-08-22,Dr. Lee,General Hospital,Yes
+P_291,Migraine,2023-04-22,Dr. Smith,HealthCare Center,No
+P_292,Diabetes,2019-09-20,Dr. Smith,General Hospital,No
+P_293,Obesity,2023-02-18,Dr. Lee,General Hospital,No
+P_294,Asthma,2024-01-20,Dr. Smith,HealthCare Center,Y
+P_295,Diabetes,2022-03-06,Dr. Lee,St. Mary’s Hospital,Yes
+P_296,Migraine,2023-06-04,Dr. Lee,HealthCare Center,Yes
+P_297,Migraine,2024-02-18,Dr. Lee,St. Mary’s Hospital,Yes
+P_298,Arthritis,2020-12-22,Dr. Patel,HealthCare Center,Yes
+P_299,Heart Disease,2021-05-07,Dr. Johnson,General Hospital,No
+P_300,Diabetes,2022-02-11,Dr. Brown,General Hospital,Yes
+P_301,Hypertension,2024-07-22,Dr. Brown,St. Mary’s Hospital,No
+P_302,Diabetes,2021-07-22,Dr. Brown,General Hospital,Y
+P_303,Hypertension,2021-11-21,Dr. Brown,General Hospital,No
+P_304,Hypertension,2021-02-27,Dr. Brown,HealthCare Center,No
+P_305,Arthritis,2021-08-30,Dr. Smith,HealthCare Center,No
+P_306,Asthma,2023-03-29,Dr. Johnson,HealthCare Center,No
+P_307,Obesity,2024-09-30,Dr. Lee,St. Mary’s Hospital,No
+P_308,Diabetes,2020-02-20,Dr. Lee,City Clinic,Yes
+P_309,Diabetes,2023-09-26,Dr. Lee,St. Mary’s Hospital,No
+P_310,Obesity,2023-05-08,Dr. Lee,General Hospital,Y
+P_311,Diabetes,2023-05-16,Dr. Brown,City Clinic,No
+P_312,Obesity,2021-02-27,Dr. Smith,City Clinic,Y
+P_313,Heart Disease,2023-08-02,Dr. Brown,St. Mary’s Hospital,Y
+P_314,Asthma,2024-11-03,Dr. Johnson,HealthCare Center,Yes
+P_315,Arthritis,2022-03-15,Dr. Brown,HealthCare Center,Yes
+P_316,Migraine,2021-11-15,Dr. Johnson,St. Mary’s Hospital,Y
+P_317,Asthma,2022-01-31,Dr. Johnson,HealthCare Center,Yes
+P_318,Hypertension,2023-01-27,Dr. Patel,City Clinic,No
+P_319,Heart Disease,2019-11-27,Dr. Johnson,General Hospital,No
+P_320,Heart Disease,2023-02-21,Dr. Johnson,St. Mary’s Hospital,No
+P_321,Heart Disease,2021-05-26,Dr. Lee,St. Mary’s Hospital,Y
+P_322,Heart Disease,2020-04-27,Dr. Smith,City Clinic,Yes
+P_323,Migraine,2023-03-30,Dr. Smith,St. Mary’s Hospital,No
+P_324,Arthritis,2024-02-06,Dr. Patel,St. Mary’s Hospital,Yes
+P_325,Diabetes,2021-09-11,Dr. Johnson,HealthCare Center,Yes
+P_326,Obesity,2022-02-08,Dr. Lee,St. Mary’s Hospital,No
+P_327,Arthritis,2023-08-01,Dr. Johnson,City Clinic,Yes
+P_328,Asthma,2019-12-30,Dr. Lee,HealthCare Center,No
+P_329,Diabetes,2022-01-02,Dr. Johnson,General Hospital,Yes
+P_330,Migraine,2022-06-30,Dr. Johnson,St. Mary’s Hospital,Y
+P_331,Arthritis,2021-11-01,Dr. Lee,City Clinic,Y
+P_332,Migraine,2024-10-24,Dr. Smith,General Hospital,No
+P_333,Hypertension,2021-09-08,Dr. Lee,General Hospital,No
+P_334,Migraine,2019-11-23,Dr. Johnson,General Hospital,No
+P_335,Heart Disease,2020-06-19,Dr. Johnson,HealthCare Center,No
+P_336,Arthritis,2022-11-30,Dr. Johnson,St. Mary’s Hospital,Y
+P_337,Obesity,2021-07-13,Dr. Johnson,General Hospital,Yes
+P_338,Hypertension,2023-08-07,Dr. Lee,City Clinic,Y
+P_339,Heart Disease,2022-05-10,Dr. Johnson,St. Mary’s Hospital,Y
+P_340,Asthma,2021-01-30,Dr. Smith,General Hospital,Yes
+P_341,Migraine,2021-02-15,Dr. Brown,General Hospital,Yes
+P_342,Asthma,2022-02-11,Dr. Johnson,HealthCare Center,Yes
+P_343,Migraine,2021-02-15,Dr. Johnson,HealthCare Center,Y
+P_344,Migraine,2022-02-08,Dr. Lee,General Hospital,Yes
+P_345,Asthma,2023-09-07,Dr. Lee,HealthCare Center,Yes
+P_346,Migraine,2019-09-27,Dr. Patel,HealthCare Center,Y
+P_347,Arthritis,2020-10-17,Dr. Johnson,St. Mary’s Hospital,No
+P_348,Hypertension,2024-04-11,Dr. Smith,St. Mary’s Hospital,No
+P_349,Diabetes,2021-07-08,Dr. Johnson,City Clinic,No
+P_350,Migraine,2024-02-01,Dr. Lee,St. Mary’s Hospital,No
+P_351,Obesity,2020-10-26,Dr. Patel,HealthCare Center,No
+P_352,Hypertension,2024-02-10,Dr. Smith,General Hospital,Yes
+P_353,Obesity,2020-08-30,Dr. Smith,HealthCare Center,No
+P_354,Migraine,2023-01-23,Dr. Lee,St. Mary’s Hospital,Yes
+P_355,Arthritis,2020-08-10,Dr. Brown,St. Mary’s Hospital,Yes
+P_356,Heart Disease,2021-04-17,Dr. Patel,City Clinic,No
+P_357,Arthritis,2020-03-20,Dr. Johnson,City Clinic,Y
+P_358,Heart Disease,2019-12-25,Dr. Patel,HealthCare Center,Yes
+P_359,Heart Disease,2020-07-14,Dr. Johnson,City Clinic,Yes
+P_360,Diabetes,2022-04-29,Dr. Smith,St. Mary’s Hospital,No
+P_361,Hypertension,2023-05-05,Dr. Lee,City Clinic,Yes
+P_362,Obesity,2021-10-26,Dr. Johnson,St. Mary’s Hospital,No
+P_363,Diabetes,2023-10-01,Dr. Patel,St. Mary’s Hospital,No
+P_364,Heart Disease,2021-12-12,Dr. Lee,City Clinic,Y
+P_365,Migraine,2021-07-05,Dr. Patel,City Clinic,No
+P_366,Asthma,2023-06-06,Dr. Smith,HealthCare Center,No
+P_367,Hypertension,2020-01-26,Dr. Brown,St. Mary’s Hospital,Yes
+P_368,Heart Disease,2024-03-19,Dr. Lee,St. Mary’s Hospital,Y
+P_369,Arthritis,2022-05-24,Dr. Johnson,HealthCare Center,Y
+P_370,Hypertension,2021-12-03,Dr. Smith,City Clinic,No
+P_371,Diabetes,2020-07-27,Dr. Lee,City Clinic,Y
+P_372,Arthritis,2021-08-09,Dr. Lee,General Hospital,Y
+P_373,Asthma,2021-04-27,Dr. Johnson,City Clinic,No
+P_374,Heart Disease,2024-10-04,Dr. Smith,General Hospital,No
+P_375,Obesity,2021-02-11,Dr. Johnson,HealthCare Center,Yes
+P_376,Obesity,2022-12-22,Dr. Brown,St. Mary’s Hospital,No
+P_377,Diabetes,2023-08-31,Dr. Lee,HealthCare Center,No
+P_378,Migraine,2023-10-03,Dr. Lee,HealthCare Center,No
+P_379,Asthma,2022-03-10,Dr. Lee,HealthCare Center,No
+P_380,Migraine,2021-01-08,Dr. Brown,HealthCare Center,Yes
+P_381,Obesity,2022-04-27,Dr. Patel,General Hospital,No
+P_382,Asthma,2020-07-16,Dr. Brown,General Hospital,Y
+P_383,Heart Disease,2023-09-19,Dr. Patel,City Clinic,Y
+P_384,Arthritis,2020-12-18,Dr. Brown,HealthCare Center,Yes
+P_385,Hypertension,2022-02-04,Dr. Smith,General Hospital,No
+P_386,Diabetes,2024-04-08,Dr. Brown,St. Mary’s Hospital,Yes
+P_387,Heart Disease,2024-06-23,Dr. Patel,HealthCare Center,Yes
+P_388,Diabetes,2022-09-22,Dr. Patel,General Hospital,Yes
+P_389,Heart Disease,2020-07-22,Dr. Lee,HealthCare Center,Y
+P_390,Arthritis,2022-10-10,Dr. Patel,St. Mary’s Hospital,Y
+P_391,Obesity,2021-03-17,Dr. Brown,City Clinic,Yes
+P_392,Heart Disease,2024-08-07,Dr. Johnson,General Hospital,Y
+P_393,Diabetes,2020-12-17,Dr. Johnson,St. Mary’s Hospital,No
+P_394,Asthma,2020-06-24,Dr. Smith,St. Mary’s Hospital,No
+P_395,Hypertension,2023-01-27,Dr. Patel,St. Mary’s Hospital,No
+P_396,Asthma,2023-05-15,Dr. Patel,St. Mary’s Hospital,No
+P_397,Hypertension,2022-11-03,Dr. Lee,City Clinic,Y
+P_398,Asthma,2023-09-06,Dr. Johnson,City Clinic,No
+P_399,Migraine,2021-07-02,Dr. Patel,City Clinic,Y

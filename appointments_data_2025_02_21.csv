@@ -1,0 +1,201 @@
+patient_id,doctor_name,appointment_date,reason_for_visit,status
+P_0,Dr. Smith,2025-04-14,Lab Results Discussion,Completed
+P_1,Dr. Brown,2025-04-10,Emergency Visit,Scheduled
+P_2,Dr. Johnson,2025-03-07,Routine Checkup,Canceled
+P_3,Dr. Johnson,2025-03-01,Emergency Visit,Canceled
+P_4,Dr. Patel,2025-04-28,Lab Results Discussion,Rescheduled
+P_5,Dr. Johnson,2025-04-19,Lab Results Discussion,Rescheduled
+P_6,Dr. Smith,2025-04-14,Lab Results Discussion,Completed
+P_7,Dr. Smith,2025-05-11,Lab Results Discussion,Scheduled
+P_8,Dr. Lee,2025-04-22,Emergency Visit,Rescheduled
+P_9,Dr. Patel,2025-04-25,Routine Checkup,Rescheduled
+P_10,Dr. Lee,2025-03-26,Lab Results Discussion,Scheduled
+P_11,Dr. Lee,2025-05-09,Lab Results Discussion,Scheduled
+P_12,Dr. Smith,2025-04-12,Lab Results Discussion,Canceled
+P_13,Dr. Smith,2025-03-11,Emergency Visit,Completed
+P_14,Dr. Smith,2025-02-25,Follow-up,Scheduled
+P_15,Dr. Smith,2025-03-18,Emergency Visit,Completed
+P_16,Dr. Johnson,2025-05-21,Lab Results Discussion,Scheduled
+P_17,Dr. Johnson,2025-05-14,Lab Results Discussion,Completed
+P_18,Dr. Smith,2025-05-03,Emergency Visit,Completed
+P_19,Dr. Lee,2025-04-16,Follow-up,Canceled
+P_20,Dr. Johnson,2025-03-05,Follow-up,Scheduled
+P_21,Dr. Lee,2025-05-13,Follow-up,Rescheduled
+P_22,Dr. Lee,2025-04-06,Routine Checkup,Completed
+P_23,Dr. Smith,2025-03-22,Follow-up,Canceled
+P_24,Dr. Lee,2025-05-15,Routine Checkup,Scheduled
+P_25,Dr. Patel,2025-05-02,Follow-up,Rescheduled
+P_26,Dr. Brown,2025-03-25,Follow-up,Completed
+P_27,Dr. Smith,2025-03-27,Routine Checkup,Rescheduled
+P_28,Dr. Patel,2025-02-21,Routine Checkup,Completed
+P_29,Dr. Smith,2025-03-10,Emergency Visit,Scheduled
+P_30,Dr. Brown,2025-05-10,Emergency Visit,Completed
+P_31,Dr. Patel,2025-03-13,Emergency Visit,Scheduled
+P_32,Dr. Smith,2025-04-14,Follow-up,Completed
+P_33,Dr. Lee,2025-03-16,Follow-up,Scheduled
+P_34,Dr. Lee,2025-03-09,Lab Results Discussion,Scheduled
+P_35,Dr. Brown,2025-05-05,Routine Checkup,Completed
+P_36,Dr. Smith,2025-05-11,Routine Checkup,Rescheduled
+P_37,Dr. Lee,2025-03-10,Follow-up,Rescheduled
+P_38,Dr. Johnson,2025-04-07,Emergency Visit,Scheduled
+P_39,Dr. Smith,2025-03-13,Follow-up,Completed
+P_40,Dr. Johnson,2025-02-21,Follow-up,Rescheduled
+P_41,Dr. Johnson,2025-04-07,Routine Checkup,Rescheduled
+P_42,Dr. Smith,2025-05-01,Follow-up,Scheduled
+P_43,Dr. Patel,2025-02-24,Routine Checkup,Canceled
+P_44,Dr. Lee,2025-02-21,Lab Results Discussion,Scheduled
+P_45,Dr. Johnson,2025-04-21,Routine Checkup,Scheduled
+P_46,Dr. Johnson,2025-04-04,Lab Results Discussion,Completed
+P_47,Dr. Patel,2025-03-23,Follow-up,Canceled
+P_48,Dr. Patel,2025-04-20,Emergency Visit,Scheduled
+P_49,Dr. Smith,2025-03-25,Routine Checkup,Completed
+P_50,Dr. Johnson,2025-03-19,Follow-up,Canceled
+P_51,Dr. Lee,2025-04-05,Routine Checkup,Canceled
+P_52,Dr. Patel,2025-04-30,Follow-up,Completed
+P_53,Dr. Johnson,2025-03-25,Emergency Visit,Completed
+P_54,Dr. Lee,2025-03-19,Lab Results Discussion,Completed
+P_55,Dr. Lee,2025-04-20,Follow-up,Completed
+P_56,Dr. Brown,2025-04-13,Follow-up,Completed
+P_57,Dr. Patel,2025-05-18,Emergency Visit,Scheduled
+P_58,Dr. Smith,2025-05-05,Routine Checkup,Scheduled
+P_59,Dr. Lee,2025-05-03,Lab Results Discussion,Scheduled
+P_60,Dr. Smith,2025-04-13,Lab Results Discussion,Completed
+P_61,Dr. Brown,2025-02-27,Routine Checkup,Completed
+P_62,Dr. Johnson,2025-04-11,Routine Checkup,Completed
+P_63,Dr. Smith,2025-04-07,Routine Checkup,Rescheduled
+P_64,Dr. Patel,2025-02-27,Emergency Visit,Canceled
+P_65,Dr. Patel,2025-04-18,Lab Results Discussion,Scheduled
+P_66,Dr. Johnson,2025-03-19,Follow-up,Canceled
+P_67,Dr. Smith,2025-05-04,Routine Checkup,Scheduled
+P_68,Dr. Johnson,2025-03-04,Follow-up,Scheduled
+P_69,Dr. Smith,2025-03-04,Follow-up,Rescheduled
+P_70,Dr. Lee,2025-05-04,Lab Results Discussion,Rescheduled
+P_71,Dr. Brown,2025-03-21,Emergency Visit,Completed
+P_72,Dr. Johnson,2025-03-04,Routine Checkup,Completed
+P_73,Dr. Smith,2025-03-16,Emergency Visit,Canceled
+P_74,Dr. Patel,2025-03-04,Lab Results Discussion,Scheduled
+P_75,Dr. Smith,2025-03-03,Emergency Visit,Scheduled
+P_76,Dr. Patel,2025-04-26,Follow-up,Canceled
+P_77,Dr. Patel,2025-04-16,Routine Checkup,Completed
+P_78,Dr. Brown,2025-05-08,Lab Results Discussion,Completed
+P_79,Dr. Smith,2025-04-08,Routine Checkup,Scheduled
+P_80,Dr. Johnson,2025-05-17,Lab Results Discussion,Canceled
+P_81,Dr. Brown,2025-02-24,Lab Results Discussion,Rescheduled
+P_82,Dr. Lee,2025-03-12,Lab Results Discussion,Rescheduled
+P_83,Dr. Johnson,2025-04-07,Lab Results Discussion,Scheduled
+P_84,Dr. Lee,2025-04-26,Follow-up,Scheduled
+P_85,Dr. Lee,2025-04-06,Lab Results Discussion,Completed
+P_86,Dr. Johnson,2025-04-25,Routine Checkup,Rescheduled
+P_87,Dr. Smith,2025-04-30,Follow-up,Scheduled
+P_88,Dr. Johnson,2025-04-27,Lab Results Discussion,Rescheduled
+P_89,Dr. Lee,2025-05-11,Emergency Visit,Completed
+P_90,Dr. Johnson,2025-03-18,Follow-up,Canceled
+P_91,Dr. Patel,2025-05-11,Follow-up,Completed
+P_92,Dr. Johnson,2025-03-23,Follow-up,Completed
+P_93,Dr. Smith,2025-04-22,Follow-up,Canceled
+P_94,Dr. Patel,2025-04-02,Follow-up,Scheduled
+P_95,Dr. Brown,2025-04-09,Lab Results Discussion,Rescheduled
+P_96,Dr. Johnson,2025-04-10,Emergency Visit,Canceled
+P_97,Dr. Brown,2025-05-10,Routine Checkup,Completed
+P_98,Dr. Smith,2025-04-16,Routine Checkup,Rescheduled
+P_99,Dr. Patel,2025-04-15,Routine Checkup,Scheduled
+P_100,Dr. Johnson,2025-05-13,Routine Checkup,Rescheduled
+P_101,Dr. Lee,2025-04-15,Follow-up,Rescheduled
+P_102,Dr. Johnson,2025-04-24,Emergency Visit,Canceled
+P_103,Dr. Brown,2025-05-14,Routine Checkup,Canceled
+P_104,Dr. Smith,2025-03-26,Routine Checkup,Rescheduled
+P_105,Dr. Lee,2025-05-04,Follow-up,Completed
+P_106,Dr. Patel,2025-04-30,Lab Results Discussion,Completed
+P_107,Dr. Lee,2025-03-30,Emergency Visit,Canceled
+P_108,Dr. Brown,2025-04-12,Routine Checkup,Rescheduled
+P_109,Dr. Johnson,2025-05-19,Lab Results Discussion,Scheduled
+P_110,Dr. Johnson,2025-04-30,Follow-up,Completed
+P_111,Dr. Patel,2025-04-01,Emergency Visit,Rescheduled
+P_112,Dr. Brown,2025-04-08,Lab Results Discussion,Rescheduled
+P_113,Dr. Smith,2025-03-28,Emergency Visit,Completed
+P_114,Dr. Patel,2025-05-07,Routine Checkup,Completed
+P_115,Dr. Smith,2025-04-11,Follow-up,Completed
+P_116,Dr. Patel,2025-04-13,Follow-up,Rescheduled
+P_117,Dr. Johnson,2025-04-29,Follow-up,Rescheduled
+P_118,Dr. Patel,2025-03-29,Follow-up,Rescheduled
+P_119,Dr. Patel,2025-04-07,Routine Checkup,Rescheduled
+P_120,Dr. Patel,2025-04-22,Lab Results Discussion,Completed
+P_121,Dr. Smith,2025-04-04,Lab Results Discussion,Rescheduled
+P_122,Dr. Lee,2025-05-04,Routine Checkup,Completed
+P_123,Dr. Johnson,2025-05-03,Routine Checkup,Scheduled
+P_124,Dr. Johnson,2025-04-26,Routine Checkup,Canceled
+P_125,Dr. Johnson,2025-05-09,Routine Checkup,Scheduled
+P_126,Dr. Lee,2025-03-20,Follow-up,Scheduled
+P_127,Dr. Johnson,2025-05-02,Emergency Visit,Rescheduled
+P_128,Dr. Johnson,2025-04-30,Lab Results Discussion,Completed
+P_129,Dr. Lee,2025-05-14,Routine Checkup,Scheduled
+P_130,Dr. Lee,2025-04-05,Follow-up,Rescheduled
+P_131,Dr. Brown,2025-04-16,Emergency Visit,Completed
+P_132,Dr. Johnson,2025-03-11,Routine Checkup,Scheduled
+P_133,Dr. Johnson,2025-05-19,Lab Results Discussion,Rescheduled
+P_134,Dr. Brown,2025-05-17,Emergency Visit,Completed
+P_135,Dr. Brown,2025-03-31,Follow-up,Rescheduled
+P_136,Dr. Johnson,2025-05-09,Emergency Visit,Scheduled
+P_137,Dr. Lee,2025-05-20,Routine Checkup,Canceled
+P_138,Dr. Lee,2025-03-16,Emergency Visit,Rescheduled
+P_139,Dr. Brown,2025-04-17,Emergency Visit,Completed
+P_140,Dr. Johnson,2025-03-11,Routine Checkup,Completed
+P_141,Dr. Johnson,2025-05-13,Follow-up,Scheduled
+P_142,Dr. Johnson,2025-04-07,Routine Checkup,Completed
+P_143,Dr. Brown,2025-03-02,Emergency Visit,Rescheduled
+P_144,Dr. Lee,2025-05-14,Emergency Visit,Rescheduled
+P_145,Dr. Johnson,2025-04-06,Emergency Visit,Rescheduled
+P_146,Dr. Johnson,2025-03-26,Follow-up,Scheduled
+P_147,Dr. Lee,2025-02-23,Follow-up,Rescheduled
+P_148,Dr. Patel,2025-03-03,Emergency Visit,Scheduled
+P_149,Dr. Patel,2025-02-23,Lab Results Discussion,Rescheduled
+P_150,Dr. Patel,2025-02-24,Routine Checkup,Rescheduled
+P_151,Dr. Smith,2025-05-01,Lab Results Discussion,Completed
+P_152,Dr. Brown,2025-05-18,Emergency Visit,Rescheduled
+P_153,Dr. Patel,2025-05-11,Follow-up,Rescheduled
+P_154,Dr. Smith,2025-04-26,Emergency Visit,Rescheduled
+P_155,Dr. Brown,2025-03-07,Emergency Visit,Completed
+P_156,Dr. Lee,2025-05-16,Routine Checkup,Scheduled
+P_157,Dr. Lee,2025-04-06,Follow-up,Completed
+P_158,Dr. Lee,2025-03-27,Lab Results Discussion,Rescheduled
+P_159,Dr. Lee,2025-05-08,Follow-up,Scheduled
+P_160,Dr. Brown,2025-04-06,Lab Results Discussion,Canceled
+P_161,Dr. Johnson,2025-04-28,Lab Results Discussion,Canceled
+P_162,Dr. Brown,2025-04-26,Lab Results Discussion,Rescheduled
+P_163,Dr. Patel,2025-03-08,Follow-up,Completed
+P_164,Dr. Lee,2025-03-19,Emergency Visit,Canceled
+P_165,Dr. Lee,2025-03-02,Lab Results Discussion,Completed
+P_166,Dr. Patel,2025-05-06,Lab Results Discussion,Rescheduled
+P_167,Dr. Brown,2025-05-17,Lab Results Discussion,Scheduled
+P_168,Dr. Johnson,2025-04-06,Emergency Visit,Scheduled
+P_169,Dr. Johnson,2025-03-31,Emergency Visit,Rescheduled
+P_170,Dr. Smith,2025-03-19,Follow-up,Scheduled
+P_171,Dr. Smith,2025-03-07,Lab Results Discussion,Canceled
+P_172,Dr. Patel,2025-03-15,Lab Results Discussion,Scheduled
+P_173,Dr. Johnson,2025-03-29,Routine Checkup,Canceled
+P_174,Dr. Brown,2025-04-15,Lab Results Discussion,Scheduled
+P_175,Dr. Lee,2025-03-08,Routine Checkup,Canceled
+P_176,Dr. Lee,2025-04-25,Follow-up,Completed
+P_177,Dr. Smith,2025-03-08,Routine Checkup,Rescheduled
+P_178,Dr. Smith,2025-05-15,Emergency Visit,Scheduled
+P_179,Dr. Smith,2025-02-26,Lab Results Discussion,Canceled
+P_180,Dr. Lee,2025-03-26,Lab Results Discussion,Rescheduled
+P_181,Dr. Johnson,2025-04-27,Follow-up,Rescheduled
+P_182,Dr. Brown,2025-04-14,Follow-up,Canceled
+P_183,Dr. Johnson,2025-05-02,Lab Results Discussion,Canceled
+P_184,Dr. Lee,2025-05-20,Follow-up,Scheduled
+P_185,Dr. Brown,2025-03-16,Routine Checkup,Completed
+P_186,Dr. Patel,2025-03-29,Follow-up,Canceled
+P_187,Dr. Brown,2025-02-27,Routine Checkup,Rescheduled
+P_188,Dr. Patel,2025-05-15,Lab Results Discussion,Completed
+P_189,Dr. Lee,2025-03-10,Follow-up,Canceled
+P_190,Dr. Brown,2025-02-23,Emergency Visit,Scheduled
+P_191,Dr. Brown,2025-03-26,Lab Results Discussion,Rescheduled
+P_192,Dr. Lee,2025-04-19,Follow-up,Rescheduled
+P_193,Dr. Johnson,2025-02-28,Emergency Visit,Canceled
+P_194,Dr. Brown,2025-02-21,Lab Results Discussion,Rescheduled
+P_195,Dr. Brown,2025-03-16,Emergency Visit,Scheduled
+P_196,Dr. Patel,2025-03-05,Emergency Visit,Scheduled
+P_197,Dr. Smith,2025-04-17,Lab Results Discussion,Completed
+P_198,Dr. Patel,2025-03-18,Emergency Visit,Canceled
+P_199,Dr. Johnson,2025-03-03,Routine Checkup,Completed

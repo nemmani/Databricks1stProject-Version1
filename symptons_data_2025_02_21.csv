@@ -1,0 +1,401 @@
+patient_id,symptom,severity,duration,body_temperature_value,body_temperature_unit,pain_level
+P_0,Shortness of breath,Severe,1 day,36.9,C,4
+P_1,Nausea,Moderate,1 day,99.7,F,6
+P_2,Cough,Mild,1 day,103.9,F,8
+P_3,Shortness of breath,Severe,1 day,101.2,F,6
+P_4,Fatigue,Moderate,1 week,38,C,6
+P_5,Shortness of breath,Moderate,3 days,98,F,3
+P_6,Nausea,Moderate,1 week,36.6,C,7
+P_7,Headache,Severe,2 weeks,102.5,F,7
+P_8,Cough,Severe,1 day,100.4,F,3
+P_9,Fatigue,Moderate,2 weeks,103,F,5
+P_10,Cough,Mild,3 days,103.2,F,3
+P_11,Cough,Severe,1 week,39.7,C,10
+P_12,Shortness of breath,Mild,1 week,38,C,8
+P_13,Headache,Mild,3 days,101,F,9
+P_14,Fever,Moderate,1 week,98,F,10
+P_15,Chest Pain,Moderate,3 days,101.6,F,5
+P_16,Fatigue,Moderate,2 weeks,103.8,F,7
+P_17,Nausea,Moderate,1 day,100.6,F,5
+P_18,Fatigue,Severe,1 day,38.2,C,7
+P_19,Nausea,Mild,3 days,102.6,F,1
+P_20,Headache,Moderate,3 days,37.3,C,10
+P_21,Nausea,Severe,1 week,98.6,F,2
+P_22,Fatigue,Mild,1 week,37,C,7
+P_23,Shortness of breath,Severe,1 day,36.2,C,8
+P_24,Nausea,Severe,3 days,103.8,F,6
+P_25,Fever,Severe,1 week,101.6,F,1
+P_26,Nausea,Moderate,3 days,38.9,C,1
+P_27,Chest Pain,Severe,1 week,101.4,F,2
+P_28,Headache,Severe,1 week,37,C,9
+P_29,Fatigue,Severe,1 day,100.7,F,9
+P_30,Fatigue,Moderate,1 day,37.4,C,3
+P_31,Nausea,Mild,1 week,98.3,F,6
+P_32,Chest Pain,Mild,2 weeks,37.8,C,7
+P_33,Shortness of breath,Mild,1 day,102.5,F,4
+P_34,Shortness of breath,Moderate,1 week,36.4,C,8
+P_35,Fatigue,Severe,1 day,98.6,F,3
+P_36,Cough,Moderate,1 week,37.4,C,1
+P_37,Shortness of breath,Mild,3 days,39.9,C,10
+P_38,Shortness of breath,Moderate,3 days,37.5,C,1
+P_39,Nausea,Mild,3 days,98.2,F,8
+P_40,Headache,Mild,3 days,100.8,F,2
+P_41,Headache,Moderate,1 week,36.3,C,10
+P_42,Cough,Moderate,2 weeks,102.3,F,3
+P_43,Fatigue,Severe,2 weeks,101.2,F,1
+P_44,Chest Pain,Moderate,3 days,102.1,F,8
+P_45,Fatigue,Moderate,2 weeks,101.8,F,2
+P_46,Headache,Moderate,1 week,98.8,F,4
+P_47,Shortness of breath,Moderate,1 week,101.4,F,9
+P_48,Fever,Mild,2 weeks,102.3,F,5
+P_49,Nausea,Severe,1 day,37,C,9
+P_50,Headache,Mild,1 week,37.8,C,4
+P_51,Cough,Mild,1 week,36.9,C,3
+P_52,Nausea,Mild,3 days,37.9,C,4
+P_53,Fatigue,Severe,1 week,39.8,C,2
+P_54,Cough,Moderate,1 day,103.7,F,7
+P_55,Fatigue,Severe,3 days,38,C,1
+P_56,Fatigue,Mild,1 day,99.4,F,8
+P_57,Fever,Moderate,2 weeks,102.9,F,9
+P_58,Headache,Mild,3 days,37.4,C,4
+P_59,Fatigue,Severe,1 week,98.5,F,9
+P_60,Chest Pain,Moderate,2 weeks,36,C,9
+P_61,Nausea,Moderate,2 weeks,39.4,C,5
+P_62,Shortness of breath,Mild,1 day,103.2,F,1
+P_63,Headache,Mild,1 week,102.5,F,6
+P_64,Cough,Moderate,1 day,36.9,C,3
+P_65,Chest Pain,Severe,2 weeks,36.7,C,3
+P_66,Fatigue,Moderate,2 weeks,103.7,F,2
+P_67,Shortness of breath,Severe,1 week,38.8,C,3
+P_68,Cough,Severe,1 day,37.4,C,9
+P_69,Cough,Moderate,3 days,98.3,F,7
+P_70,Cough,Moderate,1 day,99.2,F,9
+P_71,Fatigue,Moderate,1 day,36.2,C,2
+P_72,Fever,Severe,2 weeks,98.1,F,6
+P_73,Shortness of breath,Mild,1 week,38.7,C,5
+P_74,Headache,Moderate,3 days,38.6,C,9
+P_75,Cough,Moderate,1 week,36.4,C,7
+P_76,Shortness of breath,Moderate,3 days,97.7,F,7
+P_77,Nausea,Moderate,3 days,99.1,F,1
+P_78,Shortness of breath,Severe,3 days,37.5,C,3
+P_79,Fever,Mild,1 week,38.8,C,4
+P_80,Cough,Moderate,1 week,103.5,F,6
+P_81,Fatigue,Mild,1 day,97.4,F,9
+P_82,Nausea,Severe,3 days,36.2,C,5
+P_83,Headache,Moderate,1 day,39.8,C,4
+P_84,Nausea,Mild,3 days,101.1,F,7
+P_85,Fatigue,Mild,3 days,37.7,C,3
+P_86,Fatigue,Severe,3 days,99.7,F,3
+P_87,Fatigue,Mild,1 week,103,F,1
+P_88,Nausea,Moderate,3 days,98.6,F,6
+P_89,Fatigue,Mild,3 days,38.2,C,9
+P_90,Cough,Moderate,1 day,38.7,C,5
+P_91,Shortness of breath,Severe,3 days,99,F,1
+P_92,Fatigue,Mild,3 days,39.6,C,9
+P_93,Fever,Severe,3 days,98.8,F,10
+P_94,Headache,Moderate,3 days,100.9,F,6
+P_95,Nausea,Severe,1 week,99.2,F,10
+P_96,Fatigue,Severe,2 weeks,97.5,F,10
+P_97,Nausea,Mild,1 day,37.6,C,10
+P_98,Fatigue,Moderate,1 day,97.9,F,8
+P_99,Shortness of breath,Severe,1 week,37.6,C,4
+P_100,Nausea,Moderate,1 day,39.1,C,6
+P_101,Headache,Severe,1 day,38.6,C,9
+P_102,Cough,Mild,3 days,101.9,F,10
+P_103,Fever,Severe,2 weeks,37.3,C,10
+P_104,Cough,Moderate,3 days,36.2,C,8
+P_105,Fever,Severe,1 day,102.6,F,9
+P_106,Chest Pain,Mild,2 weeks,101.4,F,8
+P_107,Cough,Mild,1 week,98.9,F,8
+P_108,Cough,Severe,1 week,98.4,F,10
+P_109,Fatigue,Mild,3 days,36.2,C,6
+P_110,Cough,Mild,1 week,103.1,F,3
+P_111,Nausea,Severe,1 week,39.3,C,8
+P_112,Nausea,Mild,3 days,103.1,F,2
+P_113,Headache,Moderate,2 weeks,36.4,C,3
+P_114,Fatigue,Moderate,2 weeks,102.6,F,4
+P_115,Fever,Severe,1 week,38.7,C,10
+P_116,Headache,Mild,1 day,37.7,C,3
+P_117,Cough,Moderate,1 day,97.4,F,7
+P_118,Fever,Mild,1 day,37.3,C,3
+P_119,Shortness of breath,Moderate,1 week,38.8,C,8
+P_120,Nausea,Mild,3 days,103.4,F,1
+P_121,Chest Pain,Mild,1 week,97.3,F,7
+P_122,Shortness of breath,Severe,1 week,37.3,C,5
+P_123,Cough,Severe,1 week,36.9,C,6
+P_124,Headache,Moderate,3 days,38.1,C,9
+P_125,Nausea,Severe,1 week,102.8,F,5
+P_126,Cough,Severe,3 days,39.8,C,6
+P_127,Fatigue,Severe,2 weeks,98.9,F,1
+P_128,Fever,Mild,1 week,37.1,C,4
+P_129,Shortness of breath,Moderate,3 days,38.5,C,2
+P_130,Chest Pain,Mild,2 weeks,37.9,C,8
+P_131,Chest Pain,Moderate,3 days,36.6,C,10
+P_132,Nausea,Severe,1 day,38,C,4
+P_133,Fever,Severe,1 week,98.3,F,5
+P_134,Cough,Moderate,1 day,38.9,C,3
+P_135,Nausea,Severe,2 weeks,97.5,F,9
+P_136,Cough,Moderate,3 days,37.7,C,4
+P_137,Fatigue,Mild,1 week,36.7,C,1
+P_138,Fatigue,Mild,3 days,38,C,4
+P_139,Shortness of breath,Mild,1 day,36.4,C,4
+P_140,Chest Pain,Severe,2 weeks,36.3,C,10
+P_141,Cough,Mild,1 week,97.8,F,2
+P_142,Fatigue,Severe,1 week,38.3,C,9
+P_143,Fatigue,Moderate,2 weeks,39.7,C,8
+P_144,Nausea,Severe,1 week,102.1,F,8
+P_145,Nausea,Mild,1 week,100.9,F,1
+P_146,Fatigue,Mild,1 week,99.4,F,10
+P_147,Fever,Mild,1 day,38.6,C,7
+P_148,Shortness of breath,Mild,2 weeks,38.8,C,2
+P_149,Nausea,Moderate,3 days,97.5,F,2
+P_150,Chest Pain,Mild,1 week,36.5,C,10
+P_151,Headache,Moderate,2 weeks,103.3,F,5
+P_152,Headache,Severe,3 days,37.4,C,10
+P_153,Shortness of breath,Moderate,1 day,37,C,6
+P_154,Nausea,Mild,3 days,38.4,C,10
+P_155,Chest Pain,Severe,1 week,36.1,C,9
+P_156,Fever,Mild,1 week,36.9,C,6
+P_157,Chest Pain,Severe,1 week,36.5,C,5
+P_158,Headache,Moderate,2 weeks,102.5,F,5
+P_159,Shortness of breath,Mild,1 day,40,C,9
+P_160,Nausea,Mild,1 day,37.8,C,3
+P_161,Fever,Mild,1 week,104,F,6
+P_162,Fever,Moderate,2 weeks,39,C,5
+P_163,Cough,Mild,3 days,39,C,7
+P_164,Fever,Moderate,1 week,38.6,C,3
+P_165,Nausea,Severe,2 weeks,36.2,C,1
+P_166,Headache,Mild,1 week,101.5,F,1
+P_167,Nausea,Mild,1 week,103.8,F,9
+P_168,Chest Pain,Moderate,3 days,103.4,F,4
+P_169,Fatigue,Mild,3 days,100.7,F,9
+P_170,Fatigue,Moderate,2 weeks,102.5,F,9
+P_171,Fever,Mild,2 weeks,39.4,C,8
+P_172,Shortness of breath,Moderate,2 weeks,101.4,F,3
+P_173,Headache,Severe,1 day,39.5,C,10
+P_174,Headache,Severe,1 week,103.9,F,5
+P_175,Chest Pain,Severe,1 week,39.6,C,8
+P_176,Cough,Moderate,1 day,38.9,C,2
+P_177,Headache,Mild,1 day,39.5,C,5
+P_178,Fatigue,Severe,3 days,38,C,2
+P_179,Fever,Severe,3 days,36.3,C,1
+P_180,Fatigue,Mild,1 week,37.4,C,3
+P_181,Cough,Mild,1 day,36.1,C,9
+P_182,Fever,Moderate,1 day,37.2,C,8
+P_183,Nausea,Severe,2 weeks,100.3,F,4
+P_184,Fatigue,Moderate,1 week,37.4,C,3
+P_185,Fever,Mild,1 week,39.7,C,4
+P_186,Chest Pain,Moderate,3 days,97.5,F,5
+P_187,Nausea,Severe,1 day,38,C,10
+P_188,Headache,Mild,1 week,37.4,C,9
+P_189,Shortness of breath,Moderate,3 days,37.4,C,3
+P_190,Headache,Moderate,2 weeks,36.2,C,1
+P_191,Shortness of breath,Moderate,1 week,37.6,C,5
+P_192,Shortness of breath,Mild,1 week,39.5,C,9
+P_193,Cough,Mild,2 weeks,37.7,C,1
+P_194,Nausea,Severe,3 days,98.8,F,2
+P_195,Chest Pain,Mild,3 days,37,C,7
+P_196,Shortness of breath,Moderate,3 days,36.5,C,10
+P_197,Headache,Severe,3 days,36.2,C,1
+P_198,Nausea,Moderate,1 day,101.9,F,4
+P_199,Fatigue,Moderate,2 weeks,39,C,9
+P_200,Shortness of breath,Severe,1 day,97.1,F,8
+P_201,Fever,Severe,2 weeks,38.6,C,3
+P_202,Headache,Severe,1 week,98.4,F,9
+P_203,Chest Pain,Severe,1 week,36.1,C,3
+P_204,Shortness of breath,Severe,3 days,99.7,F,10
+P_205,Headache,Mild,1 week,37,C,9
+P_206,Chest Pain,Mild,1 day,39.3,C,9
+P_207,Chest Pain,Mild,1 week,103,F,7
+P_208,Cough,Mild,1 week,97.4,F,6
+P_209,Cough,Mild,1 week,97.4,F,2
+P_210,Shortness of breath,Mild,2 weeks,103.5,F,7
+P_211,Headache,Moderate,1 day,102.4,F,4
+P_212,Fatigue,Severe,1 day,102.8,F,4
+P_213,Chest Pain,Moderate,3 days,37.4,C,8
+P_214,Fever,Mild,1 day,103.1,F,1
+P_215,Cough,Severe,3 days,37.9,C,2
+P_216,Nausea,Moderate,3 days,102.4,F,7
+P_217,Nausea,Moderate,1 day,38.1,C,1
+P_218,Fatigue,Moderate,1 day,97.1,F,8
+P_219,Cough,Mild,1 day,102,F,7
+P_220,Fatigue,Mild,1 week,38.3,C,1
+P_221,Headache,Mild,1 week,36.1,C,6
+P_222,Shortness of breath,Mild,1 day,100.1,F,2
+P_223,Nausea,Moderate,2 weeks,103,F,7
+P_224,Shortness of breath,Severe,2 weeks,39.3,C,5
+P_225,Fatigue,Severe,2 weeks,102.2,F,5
+P_226,Chest Pain,Severe,2 weeks,103.2,F,6
+P_227,Headache,Moderate,1 week,36.7,C,6
+P_228,Fatigue,Mild,2 weeks,38.1,C,4
+P_229,Headache,Mild,2 weeks,38.1,C,8
+P_230,Cough,Moderate,1 week,100.4,F,5
+P_231,Chest Pain,Severe,1 week,98.4,F,7
+P_232,Cough,Severe,3 days,103,F,3
+P_233,Fatigue,Severe,2 weeks,39.2,C,3
+P_234,Chest Pain,Moderate,1 week,101.5,F,9
+P_235,Shortness of breath,Severe,1 week,36.1,C,4
+P_236,Cough,Moderate,1 week,37.2,C,6
+P_237,Chest Pain,Mild,3 days,38.1,C,6
+P_238,Shortness of breath,Moderate,2 weeks,37.8,C,9
+P_239,Fever,Severe,3 days,39.1,C,8
+P_240,Cough,Moderate,2 weeks,100.4,F,6
+P_241,Cough,Severe,3 days,38.4,C,1
+P_242,Shortness of breath,Mild,3 days,100,F,6
+P_243,Fever,Moderate,1 day,39.9,C,5
+P_244,Shortness of breath,Severe,1 week,101.1,F,1
+P_245,Fatigue,Severe,2 weeks,99.7,F,5
+P_246,Shortness of breath,Severe,3 days,39.5,C,7
+P_247,Chest Pain,Moderate,1 week,39,C,3
+P_248,Chest Pain,Severe,3 days,39.5,C,9
+P_249,Shortness of breath,Severe,2 weeks,38,C,7
+P_250,Fatigue,Moderate,1 day,100.1,F,2
+P_251,Chest Pain,Moderate,3 days,37.9,C,7
+P_252,Fever,Moderate,1 week,97.5,F,8
+P_253,Headache,Severe,2 weeks,37.8,C,10
+P_254,Shortness of breath,Moderate,3 days,100.1,F,10
+P_255,Headache,Moderate,3 days,37,C,3
+P_256,Chest Pain,Mild,1 day,99.2,F,5
+P_257,Cough,Mild,1 day,99,F,3
+P_258,Shortness of breath,Severe,1 week,102.2,F,5
+P_259,Shortness of breath,Severe,1 day,102.5,F,9
+P_260,Chest Pain,Moderate,3 days,102,F,6
+P_261,Fever,Severe,2 weeks,37,C,8
+P_262,Shortness of breath,Severe,3 days,102.3,F,1
+P_263,Headache,Moderate,1 week,37.1,C,2
+P_264,Cough,Mild,3 days,102.9,F,1
+P_265,Shortness of breath,Moderate,2 weeks,102.7,F,1
+P_266,Nausea,Severe,3 days,101.7,F,1
+P_267,Headache,Mild,1 week,103.4,F,1
+P_268,Shortness of breath,Severe,1 week,39.4,C,2
+P_269,Chest Pain,Mild,2 weeks,38,C,8
+P_270,Cough,Severe,1 week,39.5,C,6
+P_271,Fever,Mild,1 day,101.8,F,5
+P_272,Headache,Moderate,1 day,37.5,C,1
+P_273,Nausea,Severe,2 weeks,36.2,C,2
+P_274,Fatigue,Severe,1 day,102.3,F,5
+P_275,Fever,Severe,1 week,97.8,F,9
+P_276,Fever,Severe,1 day,103.5,F,9
+P_277,Headache,Mild,3 days,99.1,F,2
+P_278,Fever,Severe,2 weeks,99.7,F,10
+P_279,Fatigue,Moderate,3 days,40,C,6
+P_280,Chest Pain,Severe,2 weeks,38.5,C,3
+P_281,Headache,Moderate,3 days,37.5,C,7
+P_282,Fatigue,Severe,2 weeks,36.5,C,6
+P_283,Fatigue,Moderate,1 week,39,C,2
+P_284,Fever,Mild,3 days,97.6,F,6
+P_285,Headache,Mild,2 weeks,38.2,C,1
+P_286,Cough,Severe,1 day,37.7,C,8
+P_287,Fatigue,Mild,2 weeks,38.6,C,4
+P_288,Cough,Severe,1 day,36.2,C,2
+P_289,Cough,Mild,2 weeks,36.9,C,10
+P_290,Fatigue,Moderate,1 week,39.5,C,4
+P_291,Cough,Mild,3 days,101.2,F,5
+P_292,Cough,Severe,1 day,99.7,F,2
+P_293,Shortness of breath,Moderate,3 days,37,C,3
+P_294,Chest Pain,Severe,1 day,98.3,F,5
+P_295,Headache,Severe,3 days,38.1,C,7
+P_296,Nausea,Mild,3 days,40,C,8
+P_297,Fatigue,Severe,1 day,99.2,F,2
+P_298,Fatigue,Mild,3 days,36.4,C,8
+P_299,Cough,Mild,1 day,104,F,7
+P_300,Shortness of breath,Mild,3 days,39.1,C,8
+P_301,Fever,Mild,1 day,39.8,C,2
+P_302,Headache,Moderate,1 day,38.7,C,10
+P_303,Fatigue,Moderate,1 day,97.6,F,1
+P_304,Fever,Moderate,2 weeks,97.5,F,10
+P_305,Fatigue,Moderate,1 day,100.3,F,4
+P_306,Cough,Mild,1 day,37.9,C,3
+P_307,Fatigue,Mild,2 weeks,37,C,10
+P_308,Nausea,Severe,2 weeks,36.2,C,5
+P_309,Chest Pain,Severe,3 days,99,F,8
+P_310,Fever,Moderate,2 weeks,103.5,F,3
+P_311,Shortness of breath,Severe,1 day,100.2,F,9
+P_312,Nausea,Moderate,1 day,38.6,C,7
+P_313,Chest Pain,Severe,1 day,98.1,F,10
+P_314,Cough,Moderate,3 days,38.5,C,8
+P_315,Shortness of breath,Mild,1 week,38.1,C,7
+P_316,Fatigue,Moderate,1 week,97.8,F,10
+P_317,Nausea,Mild,1 day,40,C,7
+P_318,Shortness of breath,Mild,1 day,39.7,C,3
+P_319,Fever,Mild,1 day,38.9,C,9
+P_320,Fatigue,Moderate,1 day,36.4,C,5
+P_321,Chest Pain,Severe,1 day,36.6,C,10
+P_322,Fatigue,Mild,1 week,101.9,F,7
+P_323,Headache,Moderate,1 day,36.4,C,1
+P_324,Fever,Mild,2 weeks,97.1,F,9
+P_325,Headache,Mild,1 week,99,F,7
+P_326,Fatigue,Moderate,2 weeks,101.6,F,6
+P_327,Shortness of breath,Severe,2 weeks,36.3,C,5
+P_328,Fever,Severe,1 day,38.5,C,4
+P_329,Cough,Severe,1 day,38.3,C,9
+P_330,Fatigue,Moderate,1 day,102.1,F,7
+P_331,Nausea,Moderate,1 week,99.5,F,10
+P_332,Fatigue,Mild,2 weeks,37.4,C,5
+P_333,Shortness of breath,Mild,2 weeks,38.4,C,4
+P_334,Chest Pain,Severe,2 weeks,103.3,F,4
+P_335,Fatigue,Moderate,1 week,37,C,9
+P_336,Headache,Moderate,1 day,97.5,F,9
+P_337,Chest Pain,Mild,2 weeks,39.7,C,10
+P_338,Cough,Mild,2 weeks,38.5,C,9
+P_339,Chest Pain,Mild,1 week,37,C,8
+P_340,Fatigue,Severe,1 day,103,F,9
+P_341,Chest Pain,Moderate,1 week,36.4,C,5
+P_342,Fever,Moderate,1 day,38.1,C,1
+P_343,Nausea,Moderate,1 day,98,F,3
+P_344,Chest Pain,Severe,2 weeks,37.8,C,1
+P_345,Chest Pain,Moderate,2 weeks,98.9,F,10
+P_346,Nausea,Severe,1 week,98.2,F,3
+P_347,Shortness of breath,Mild,1 day,100.1,F,4
+P_348,Chest Pain,Moderate,1 day,99.9,F,5
+P_349,Fever,Severe,2 weeks,37.2,C,7
+P_350,Nausea,Severe,3 days,36.9,C,1
+P_351,Nausea,Moderate,1 week,36,C,5
+P_352,Cough,Mild,1 day,102.8,F,3
+P_353,Headache,Severe,1 week,36.8,C,4
+P_354,Shortness of breath,Moderate,2 weeks,103.4,F,9
+P_355,Fatigue,Moderate,1 week,99.9,F,9
+P_356,Shortness of breath,Moderate,2 weeks,38.2,C,10
+P_357,Nausea,Moderate,3 days,99.1,F,10
+P_358,Fever,Moderate,2 weeks,38.9,C,4
+P_359,Chest Pain,Moderate,3 days,97.9,F,4
+P_360,Fever,Severe,1 day,37.2,C,2
+P_361,Fatigue,Severe,1 week,38.2,C,5
+P_362,Headache,Moderate,2 weeks,38,C,7
+P_363,Fever,Mild,2 weeks,101.5,F,6
+P_364,Cough,Moderate,3 days,39.1,C,1
+P_365,Shortness of breath,Severe,2 weeks,38.4,C,1
+P_366,Nausea,Moderate,1 day,38.6,C,4
+P_367,Fatigue,Severe,2 weeks,39.6,C,4
+P_368,Fever,Moderate,2 weeks,37.2,C,7
+P_369,Chest Pain,Mild,3 days,38.7,C,5
+P_370,Fever,Severe,2 weeks,103,F,1
+P_371,Chest Pain,Moderate,2 weeks,37.4,C,7
+P_372,Headache,Severe,3 days,97.4,F,7
+P_373,Nausea,Mild,3 days,99.1,F,10
+P_374,Fever,Severe,2 weeks,97.7,F,1
+P_375,Headache,Moderate,3 days,102.6,F,2
+P_376,Nausea,Moderate,2 weeks,39.1,C,7
+P_377,Headache,Severe,3 days,38.7,C,5
+P_378,Shortness of breath,Moderate,1 day,100.3,F,7
+P_379,Fever,Moderate,1 day,38.8,C,2
+P_380,Fever,Moderate,1 week,103.6,F,3
+P_381,Fever,Mild,1 week,38.4,C,2
+P_382,Headache,Moderate,1 week,101.2,F,8
+P_383,Headache,Moderate,3 days,37,C,5
+P_384,Chest Pain,Severe,2 weeks,99.1,F,7
+P_385,Shortness of breath,Moderate,1 week,98.9,F,7
+P_386,Fever,Moderate,2 weeks,101.2,F,4
+P_387,Fever,Mild,1 week,97.5,F,4
+P_388,Shortness of breath,Mild,3 days,39.5,C,9
+P_389,Chest Pain,Moderate,1 week,38.7,C,10
+P_390,Nausea,Moderate,1 week,39.3,C,2
+P_391,Headache,Severe,1 week,98.5,F,2
+P_392,Cough,Severe,1 day,37.8,C,10
+P_393,Chest Pain,Moderate,2 weeks,36.5,C,4
+P_394,Cough,Moderate,2 weeks,102.7,F,3
+P_395,Shortness of breath,Mild,3 days,37.9,C,2
+P_396,Shortness of breath,Severe,1 week,39.3,C,7
+P_397,Nausea,Severe,2 weeks,38.6,C,8
+P_398,Cough,Moderate,1 day,38.4,C,9
+P_399,Shortness of breath,Mild,1 week,36.9,C,1

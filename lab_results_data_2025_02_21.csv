@@ -1,0 +1,351 @@
+patient_id,drug_name,dosage,frequency,start_date,end_date,side_effects
+P_0,Metformin,500mg,Once a day,2024-09-13,2025-04-06,Headache
+P_1,Amoxicillin,500mg,As needed,2024-08-11,2025-03-01,None
+P_2,Amoxicillin,50mg,Once a day,2024-09-30,2025-04-16,Dizziness
+P_3,Aspirin,20mg,As needed,2024-09-09,2025-04-10,Nausea
+P_4,Lisinopril,100mg,Twice a day,2024-11-10,2025-05-17,Nausea
+P_5,Ibuprofen,250mg,As needed,2024-11-01,2025-04-21,Nausea
+P_6,Ibuprofen,500mg,Twice a day,2024-10-08,2025-05-09,None
+P_7,Metformin,250mg,Once a day,2025-02-02,2025-03-28,Nausea
+P_8,Lisinopril,500mg,Once a day,2024-12-11,2025-03-15,Fatigue
+P_9,Ibuprofen,50mg,Twice a day,2024-12-30,2025-03-15,Nausea
+P_10,Aspirin,100mg,As needed,2025-01-25,2025-04-07,Headache
+P_11,Lisinopril,100mg,As needed,2024-12-28,2025-04-15,Fatigue
+P_12,Lisinopril,250mg,As needed,2024-11-23,2025-03-14,Nausea
+P_13,Metformin,500mg,Twice a day,2024-09-04,2025-03-21,Nausea
+P_14,Metformin,50mg,Twice a day,2024-11-06,2025-04-19,Dizziness
+P_15,Metformin,20mg,As needed,2025-01-09,2025-04-23,Headache
+P_16,Aspirin,100mg,As needed,2024-11-28,2025-03-02,Fatigue
+P_17,Metformin,20mg,Twice a day,2024-10-27,2025-03-07,Dizziness
+P_18,Ibuprofen,50mg,Twice a day,2024-11-18,2025-03-10,Headache
+P_19,Aspirin,250mg,Once a day,2024-12-31,2025-03-16,Fatigue
+P_20,Aspirin,50mg,Once a day,2024-08-19,2025-02-26,Fatigue
+P_21,Amoxicillin,50mg,Twice a day,2024-12-16,2025-04-22,Fatigue
+P_22,Aspirin,100mg,Twice a day,2024-08-10,2025-02-27,Dizziness
+P_23,Ibuprofen,500mg,Once a day,2024-11-06,2025-05-06,None
+P_24,Aspirin,100mg,Twice a day,2024-09-23,2025-03-02,None
+P_25,Amoxicillin,500mg,Twice a day,2025-01-09,2025-03-15,None
+P_26,Amoxicillin,50mg,Once a day,2024-12-08,2025-05-16,Fatigue
+P_27,Aspirin,100mg,Twice a day,2024-11-06,2025-04-30,Dizziness
+P_28,Metformin,500mg,Once a day,2024-09-20,2025-02-26,Nausea
+P_29,Ibuprofen,20mg,As needed,2024-08-26,2025-03-01,Fatigue
+P_30,Aspirin,20mg,Once a day,2024-08-26,2025-04-13,Headache
+P_31,Lisinopril,500mg,Twice a day,2024-08-12,2025-03-26,Headache
+P_32,Aspirin,20mg,Once a day,2024-09-17,2025-04-08,Dizziness
+P_33,Aspirin,500mg,Twice a day,2024-12-24,2025-03-17,None
+P_34,Lisinopril,50mg,As needed,2024-09-28,2025-03-06,Headache
+P_35,Ibuprofen,250mg,Twice a day,2024-09-22,2025-04-23,Fatigue
+P_36,Aspirin,20mg,Twice a day,2025-01-26,2025-05-03,None
+P_37,Aspirin,20mg,As needed,2024-09-12,2025-04-21,Nausea
+P_38,Lisinopril,500mg,Twice a day,2024-10-26,2025-04-12,Dizziness
+P_39,Metformin,100mg,As needed,2025-01-18,2025-03-21,Headache
+P_40,Lisinopril,500mg,Twice a day,2024-12-16,2025-05-04,None
+P_41,Amoxicillin,20mg,Twice a day,2024-09-04,2025-03-10,Dizziness
+P_42,Lisinopril,100mg,As needed,2024-11-21,2025-02-28,Dizziness
+P_43,Ibuprofen,20mg,Twice a day,2024-12-07,2025-04-21,Headache
+P_44,Ibuprofen,50mg,As needed,2025-01-12,2025-05-05,None
+P_45,Ibuprofen,100mg,As needed,2024-10-05,2025-04-07,Fatigue
+P_46,Metformin,20mg,Once a day,2025-01-06,2025-04-22,Headache
+P_47,Lisinopril,100mg,Twice a day,2024-11-09,2025-04-15,Fatigue
+P_48,Lisinopril,50mg,Once a day,2024-10-16,2025-04-26,Nausea
+P_49,Aspirin,50mg,Once a day,2024-11-11,2025-05-07,None
+P_50,Lisinopril,100mg,Twice a day,2024-10-12,2025-03-26,Nausea
+P_51,Aspirin,100mg,Twice a day,2024-10-21,2025-05-08,Fatigue
+P_52,Aspirin,100mg,Twice a day,2024-08-15,2025-03-20,Dizziness
+P_53,Metformin,50mg,Once a day,2024-10-21,2025-04-11,None
+P_54,Metformin,20mg,Once a day,2025-01-03,2025-04-17,Headache
+P_55,Lisinopril,250mg,Once a day,2024-11-07,2025-04-29,None
+P_56,Aspirin,50mg,Once a day,2024-09-16,2025-05-14,Dizziness
+P_57,Aspirin,250mg,Twice a day,2024-08-22,2025-03-04,None
+P_58,Lisinopril,500mg,Twice a day,2024-11-18,2025-03-05,Dizziness
+P_59,Ibuprofen,20mg,Once a day,2024-08-18,2025-05-15,Headache
+P_60,Lisinopril,100mg,As needed,2024-11-04,2025-05-06,Nausea
+P_61,Metformin,50mg,Twice a day,2024-08-21,2025-03-17,None
+P_62,Ibuprofen,100mg,Once a day,2024-10-23,2025-03-29,Nausea
+P_63,Ibuprofen,100mg,As needed,2024-11-27,2025-04-11,None
+P_64,Aspirin,100mg,Once a day,2024-09-30,2025-04-17,Headache
+P_65,Lisinopril,500mg,As needed,2024-11-10,2025-03-12,Nausea
+P_66,Lisinopril,50mg,Once a day,2024-08-29,2025-03-03,Dizziness
+P_67,Amoxicillin,500mg,Twice a day,2024-12-12,2025-04-25,Dizziness
+P_68,Lisinopril,500mg,As needed,2024-11-21,2025-04-18,Fatigue
+P_69,Amoxicillin,50mg,Twice a day,2025-01-08,2025-03-19,Dizziness
+P_70,Lisinopril,50mg,As needed,2024-11-09,2025-03-19,Headache
+P_71,Aspirin,250mg,As needed,2024-12-22,2025-03-29,None
+P_72,Ibuprofen,100mg,Once a day,2025-02-08,2025-03-25,Nausea
+P_73,Ibuprofen,50mg,As needed,2024-08-10,2025-04-05,Nausea
+P_74,Metformin,100mg,Once a day,2024-12-10,2025-05-17,Nausea
+P_75,Lisinopril,20mg,As needed,2024-08-23,2025-03-03,None
+P_76,Metformin,500mg,As needed,2024-11-23,2025-03-20,None
+P_77,Aspirin,500mg,Once a day,2024-09-12,2025-03-19,Fatigue
+P_78,Ibuprofen,20mg,Twice a day,2025-01-12,2025-05-08,Nausea
+P_79,Ibuprofen,500mg,As needed,2024-10-28,2025-03-31,Headache
+P_80,Ibuprofen,250mg,As needed,2025-02-04,2025-03-31,Dizziness
+P_81,Metformin,50mg,Once a day,2024-09-10,2025-05-08,None
+P_82,Ibuprofen,100mg,As needed,2024-08-20,2025-03-28,Fatigue
+P_83,Aspirin,250mg,Once a day,2024-11-22,2025-03-08,Dizziness
+P_84,Ibuprofen,20mg,As needed,2024-09-26,2025-04-01,Dizziness
+P_85,Ibuprofen,20mg,As needed,2025-01-04,2025-03-22,None
+P_86,Lisinopril,100mg,As needed,2025-01-01,2025-03-01,Fatigue
+P_87,Lisinopril,20mg,As needed,2025-01-21,2025-03-05,None
+P_88,Ibuprofen,100mg,As needed,2024-09-13,2025-03-15,Nausea
+P_89,Amoxicillin,250mg,As needed,2024-10-11,2025-04-18,Dizziness
+P_90,Metformin,20mg,As needed,2024-10-09,2025-03-29,Nausea
+P_91,Ibuprofen,50mg,Once a day,2024-11-28,2025-03-28,Headache
+P_92,Ibuprofen,500mg,Twice a day,2024-10-12,2025-04-29,Dizziness
+P_93,Aspirin,50mg,As needed,2024-08-15,2025-05-03,Headache
+P_94,Metformin,500mg,Twice a day,2024-08-12,2025-05-11,Fatigue
+P_95,Metformin,250mg,Twice a day,2025-01-08,2025-02-26,Headache
+P_96,Ibuprofen,500mg,Once a day,2024-12-06,2025-03-10,Nausea
+P_97,Lisinopril,20mg,Twice a day,2024-08-29,2025-03-15,Headache
+P_98,Metformin,250mg,As needed,2024-11-28,2025-04-13,Dizziness
+P_99,Lisinopril,20mg,Once a day,2024-10-25,2025-04-20,Headache
+P_100,Amoxicillin,20mg,Once a day,2024-10-31,2025-04-07,Headache
+P_101,Lisinopril,100mg,As needed,2024-08-15,2025-04-21,Headache
+P_102,Amoxicillin,100mg,Twice a day,2024-11-05,2025-02-27,Fatigue
+P_103,Metformin,20mg,Twice a day,2025-01-05,2025-05-15,None
+P_104,Lisinopril,20mg,As needed,2024-11-22,2025-03-05,Headache
+P_105,Amoxicillin,20mg,As needed,2024-11-14,2025-05-08,Dizziness
+P_106,Lisinopril,50mg,As needed,2024-09-24,2025-05-07,Dizziness
+P_107,Lisinopril,100mg,Once a day,2024-12-28,2025-04-07,Nausea
+P_108,Lisinopril,100mg,Twice a day,2024-10-21,2025-04-01,Fatigue
+P_109,Amoxicillin,100mg,As needed,2024-08-29,2025-05-06,Dizziness
+P_110,Amoxicillin,500mg,Twice a day,2024-12-09,2025-05-18,None
+P_111,Metformin,50mg,Once a day,2024-12-29,2025-03-11,Dizziness
+P_112,Lisinopril,20mg,As needed,2024-11-27,2025-05-16,Fatigue
+P_113,Metformin,100mg,Twice a day,2024-11-05,2025-02-26,Fatigue
+P_114,Ibuprofen,250mg,Once a day,2024-08-07,2025-03-18,Fatigue
+P_115,Aspirin,250mg,Twice a day,2024-09-09,2025-04-09,Dizziness
+P_116,Lisinopril,500mg,Once a day,2025-01-01,2025-04-14,Dizziness
+P_117,Lisinopril,500mg,Twice a day,2024-10-18,2025-05-19,Dizziness
+P_118,Ibuprofen,20mg,Once a day,2024-09-19,2025-03-22,Nausea
+P_119,Amoxicillin,100mg,Once a day,2024-08-18,2025-03-15,Fatigue
+P_120,Amoxicillin,50mg,Twice a day,2024-11-07,2025-04-28,Nausea
+P_121,Amoxicillin,500mg,As needed,2024-10-02,2025-03-10,Headache
+P_122,Lisinopril,50mg,Once a day,2024-11-23,2025-03-31,Headache
+P_123,Amoxicillin,50mg,Twice a day,2024-11-23,2025-05-13,None
+P_124,Aspirin,500mg,Once a day,2024-12-10,2025-05-20,Nausea
+P_125,Aspirin,500mg,Twice a day,2024-12-01,2025-04-05,Headache
+P_126,Amoxicillin,100mg,Twice a day,2024-08-21,2025-05-10,None
+P_127,Ibuprofen,250mg,Once a day,2024-09-08,2025-04-10,Headache
+P_128,Aspirin,250mg,As needed,2024-10-21,2025-05-05,Dizziness
+P_129,Ibuprofen,100mg,Twice a day,2024-12-30,2025-03-28,None
+P_130,Lisinopril,100mg,As needed,2025-01-18,2025-03-07,Nausea
+P_131,Ibuprofen,50mg,Twice a day,2024-08-24,2025-05-20,Nausea
+P_132,Lisinopril,50mg,Twice a day,2025-01-17,2025-03-16,None
+P_133,Metformin,100mg,As needed,2024-09-22,2025-03-05,Nausea
+P_134,Metformin,250mg,Twice a day,2025-01-26,2025-04-09,Headache
+P_135,Ibuprofen,500mg,Twice a day,2024-08-13,2025-04-06,None
+P_136,Metformin,50mg,Twice a day,2024-08-13,2025-04-06,Headache
+P_137,Aspirin,250mg,As needed,2025-02-10,2025-04-01,Nausea
+P_138,Aspirin,50mg,Twice a day,2024-12-15,2025-03-28,Fatigue
+P_139,Ibuprofen,250mg,Once a day,2024-10-31,2025-04-13,None
+P_140,Amoxicillin,50mg,As needed,2024-11-12,2025-04-02,Dizziness
+P_141,Ibuprofen,500mg,Twice a day,2024-10-21,2025-04-18,Fatigue
+P_142,Lisinopril,500mg,Once a day,2025-02-06,2025-05-15,None
+P_143,Ibuprofen,20mg,Once a day,2024-11-06,2025-03-18,Headache
+P_144,Aspirin,50mg,Twice a day,2024-09-16,2025-04-17,Nausea
+P_145,Aspirin,250mg,Once a day,2024-08-19,2025-02-26,Nausea
+P_146,Metformin,250mg,As needed,2024-09-29,2025-05-02,Fatigue
+P_147,Ibuprofen,50mg,As needed,2024-08-14,2025-03-26,Nausea
+P_148,Ibuprofen,250mg,Once a day,2024-10-18,2025-03-06,Fatigue
+P_149,Ibuprofen,500mg,Twice a day,2025-01-22,2025-03-12,Nausea
+P_150,Aspirin,100mg,Twice a day,2024-08-23,2025-04-30,Fatigue
+P_151,Ibuprofen,500mg,As needed,2024-08-11,2025-04-07,Dizziness
+P_152,Metformin,20mg,As needed,2024-10-23,2025-03-14,Nausea
+P_153,Ibuprofen,500mg,Twice a day,2024-11-24,2025-03-25,Headache
+P_154,Aspirin,50mg,Once a day,2024-12-29,2025-03-01,Dizziness
+P_155,Metformin,500mg,Twice a day,2025-01-28,2025-05-18,Headache
+P_156,Lisinopril,20mg,Twice a day,2024-09-11,2025-05-05,None
+P_157,Ibuprofen,50mg,Once a day,2024-09-29,2025-05-05,Headache
+P_158,Aspirin,500mg,As needed,2025-01-24,2025-05-04,None
+P_159,Metformin,250mg,Once a day,2024-10-12,2025-03-12,Fatigue
+P_160,Ibuprofen,20mg,As needed,2024-09-27,2025-03-30,Headache
+P_161,Amoxicillin,50mg,As needed,2024-09-18,2025-03-06,Dizziness
+P_162,Ibuprofen,50mg,Twice a day,2024-11-09,2025-03-08,Headache
+P_163,Metformin,500mg,As needed,2024-08-06,2025-04-07,Headache
+P_164,Aspirin,20mg,Twice a day,2025-02-03,2025-03-11,None
+P_165,Ibuprofen,20mg,Twice a day,2024-08-28,2025-03-13,Headache
+P_166,Amoxicillin,50mg,As needed,2024-11-12,2025-03-31,Dizziness
+P_167,Metformin,20mg,Twice a day,2025-02-09,2025-04-07,Dizziness
+P_168,Aspirin,50mg,Once a day,2024-10-17,2025-04-06,Headache
+P_169,Ibuprofen,20mg,As needed,2024-12-06,2025-02-26,None
+P_170,Ibuprofen,20mg,Twice a day,2024-11-26,2025-03-26,Nausea
+P_171,Lisinopril,100mg,As needed,2025-01-09,2025-03-15,Dizziness
+P_172,Metformin,250mg,Once a day,2024-08-28,2025-04-07,Dizziness
+P_173,Amoxicillin,20mg,Twice a day,2024-09-05,2025-05-10,Dizziness
+P_174,Metformin,20mg,As needed,2024-09-29,2025-05-03,None
+P_175,Ibuprofen,20mg,Once a day,2024-10-22,2025-03-29,Headache
+P_176,Ibuprofen,20mg,Once a day,2024-08-06,2025-03-07,Fatigue
+P_177,Ibuprofen,20mg,As needed,2024-11-17,2025-04-07,None
+P_178,Metformin,50mg,Twice a day,2024-08-16,2025-04-24,Nausea
+P_179,Ibuprofen,500mg,As needed,2024-11-29,2025-02-28,None
+P_180,Lisinopril,500mg,As needed,2024-09-28,2025-05-10,Dizziness
+P_181,Amoxicillin,100mg,As needed,2025-02-03,2025-02-25,None
+P_182,Lisinopril,500mg,Once a day,2025-01-20,2025-03-03,Headache
+P_183,Aspirin,20mg,As needed,2024-12-10,2025-05-08,Fatigue
+P_184,Ibuprofen,20mg,As needed,2025-01-03,2025-04-04,Fatigue
+P_185,Amoxicillin,100mg,Twice a day,2024-12-15,2025-04-05,Fatigue
+P_186,Lisinopril,20mg,Once a day,2024-11-23,2025-05-06,Dizziness
+P_187,Aspirin,500mg,Twice a day,2024-08-07,2025-03-22,None
+P_188,Lisinopril,250mg,As needed,2024-11-27,2025-03-09,Dizziness
+P_189,Aspirin,500mg,Twice a day,2024-11-09,2025-04-20,Dizziness
+P_190,Amoxicillin,500mg,Once a day,2025-01-10,2025-02-27,Nausea
+P_191,Ibuprofen,100mg,As needed,2025-02-08,2025-03-09,None
+P_192,Lisinopril,250mg,Once a day,2025-01-30,2025-04-17,Fatigue
+P_193,Amoxicillin,500mg,Once a day,2025-02-10,2025-05-01,Headache
+P_194,Metformin,20mg,As needed,2024-08-13,2025-05-12,Nausea
+P_195,Aspirin,20mg,As needed,2024-08-28,2025-04-11,Fatigue
+P_196,Lisinopril,50mg,Twice a day,2025-01-13,2025-04-27,Nausea
+P_197,Amoxicillin,100mg,Once a day,2024-08-24,2025-02-27,Dizziness
+P_198,Aspirin,100mg,As needed,2024-12-23,2025-05-07,Headache
+P_199,Ibuprofen,20mg,Once a day,2024-09-19,2025-03-07,Nausea
+P_200,Aspirin,500mg,As needed,2024-10-14,2025-05-06,Nausea
+P_201,Lisinopril,500mg,As needed,2024-11-05,2025-04-06,Dizziness
+P_202,Metformin,20mg,As needed,2025-02-03,2025-03-27,Headache
+P_203,Metformin,20mg,As needed,2024-11-11,2025-05-16,None
+P_204,Aspirin,20mg,As needed,2024-09-09,2025-04-21,Nausea
+P_205,Lisinopril,20mg,Twice a day,2024-12-13,2025-04-06,None
+P_206,Aspirin,250mg,Once a day,2024-09-26,2025-04-26,Dizziness
+P_207,Amoxicillin,20mg,Once a day,2024-09-29,2025-05-09,Headache
+P_208,Amoxicillin,250mg,Once a day,2024-10-02,2025-02-27,Dizziness
+P_209,Amoxicillin,250mg,As needed,2024-11-12,2025-03-15,Fatigue
+P_210,Amoxicillin,100mg,Twice a day,2024-09-04,2025-03-18,Headache
+P_211,Amoxicillin,20mg,As needed,2025-01-30,2025-03-13,Dizziness
+P_212,Ibuprofen,250mg,Once a day,2024-11-16,2025-02-26,Nausea
+P_213,Metformin,250mg,Once a day,2024-09-07,2025-05-04,Fatigue
+P_214,Amoxicillin,500mg,Once a day,2024-11-13,2025-05-01,None
+P_215,Aspirin,250mg,Once a day,2024-11-21,2025-04-17,Headache
+P_216,Ibuprofen,50mg,Twice a day,2025-01-11,2025-04-12,Dizziness
+P_217,Aspirin,250mg,Twice a day,2025-01-04,2025-04-04,Fatigue
+P_218,Aspirin,20mg,Once a day,2024-10-28,2025-03-28,None
+P_219,Ibuprofen,250mg,Once a day,2024-11-12,2025-04-25,Fatigue
+P_220,Ibuprofen,50mg,Twice a day,2024-08-04,2025-03-31,Fatigue
+P_221,Aspirin,500mg,As needed,2025-01-26,2025-03-30,Dizziness
+P_222,Lisinopril,250mg,Once a day,2024-09-30,2025-05-07,Nausea
+P_223,Amoxicillin,250mg,Twice a day,2024-08-26,2025-05-04,Headache
+P_224,Lisinopril,500mg,As needed,2024-10-26,2025-04-26,Nausea
+P_225,Amoxicillin,100mg,Twice a day,2024-11-25,2025-05-19,Headache
+P_226,Lisinopril,50mg,As needed,2024-08-30,2025-05-09,Fatigue
+P_227,Aspirin,500mg,Twice a day,2024-11-11,2025-03-17,None
+P_228,Ibuprofen,100mg,Once a day,2024-08-31,2025-05-11,Dizziness
+P_229,Aspirin,50mg,Once a day,2024-12-23,2025-04-26,None
+P_230,Ibuprofen,100mg,As needed,2024-10-31,2025-04-15,None
+P_231,Ibuprofen,250mg,Once a day,2025-01-14,2025-04-11,Nausea
+P_232,Metformin,50mg,Once a day,2025-01-19,2025-04-20,Headache
+P_233,Lisinopril,50mg,As needed,2024-12-24,2025-04-26,None
+P_234,Aspirin,20mg,Once a day,2024-11-03,2025-03-17,Fatigue
+P_235,Ibuprofen,250mg,As needed,2025-01-08,2025-04-07,Headache
+P_236,Lisinopril,50mg,Once a day,2025-01-15,2025-04-02,Dizziness
+P_237,Ibuprofen,500mg,As needed,2024-09-24,2025-03-22,None
+P_238,Metformin,500mg,Once a day,2024-09-01,2025-04-20,Fatigue
+P_239,Amoxicillin,50mg,Twice a day,2024-12-09,2025-04-29,Fatigue
+P_240,Ibuprofen,20mg,Once a day,2024-11-16,2025-04-04,None
+P_241,Metformin,250mg,Twice a day,2024-09-07,2025-03-28,Dizziness
+P_242,Amoxicillin,20mg,Twice a day,2024-10-25,2025-04-15,Nausea
+P_243,Ibuprofen,250mg,Once a day,2024-08-12,2025-03-11,Nausea
+P_244,Aspirin,100mg,As needed,2025-01-05,2025-05-11,None
+P_245,Aspirin,250mg,Twice a day,2024-12-21,2025-02-25,None
+P_246,Aspirin,500mg,As needed,2024-09-24,2025-05-10,Fatigue
+P_247,Aspirin,100mg,As needed,2025-01-15,2025-03-21,Nausea
+P_248,Aspirin,50mg,Twice a day,2024-10-20,2025-04-21,Dizziness
+P_249,Ibuprofen,100mg,Twice a day,2024-10-04,2025-03-15,Fatigue
+P_250,Lisinopril,50mg,Once a day,2024-11-12,2025-03-20,Headache
+P_251,Aspirin,100mg,Twice a day,2024-10-29,2025-03-08,Dizziness
+P_252,Aspirin,100mg,Once a day,2024-09-30,2025-05-13,None
+P_253,Lisinopril,250mg,Twice a day,2024-12-21,2025-03-24,Headache
+P_254,Amoxicillin,500mg,Once a day,2024-10-02,2025-02-27,Dizziness
+P_255,Lisinopril,100mg,Twice a day,2024-10-08,2025-03-04,Nausea
+P_256,Metformin,50mg,As needed,2024-09-09,2025-03-02,None
+P_257,Ibuprofen,20mg,Once a day,2024-08-11,2025-05-03,None
+P_258,Amoxicillin,500mg,Once a day,2025-01-31,2025-05-17,Fatigue
+P_259,Aspirin,250mg,Once a day,2024-12-27,2025-05-07,Headache
+P_260,Amoxicillin,250mg,Once a day,2024-11-16,2025-04-25,Nausea
+P_261,Ibuprofen,50mg,Twice a day,2024-10-18,2025-03-16,Fatigue
+P_262,Lisinopril,250mg,Once a day,2025-01-21,2025-03-05,Dizziness
+P_263,Ibuprofen,250mg,Twice a day,2025-01-26,2025-02-26,Fatigue
+P_264,Metformin,50mg,As needed,2025-01-23,2025-05-02,Nausea
+P_265,Aspirin,250mg,As needed,2024-12-25,2025-04-28,None
+P_266,Lisinopril,50mg,As needed,2025-01-16,2025-04-06,Dizziness
+P_267,Lisinopril,50mg,Once a day,2024-12-04,2025-05-02,None
+P_268,Aspirin,250mg,Twice a day,2024-10-15,2025-04-27,Nausea
+P_269,Metformin,50mg,Twice a day,2025-01-02,2025-05-19,Nausea
+P_270,Aspirin,20mg,Once a day,2024-11-18,2025-04-20,None
+P_271,Metformin,250mg,Once a day,2025-01-19,2025-02-27,Dizziness
+P_272,Aspirin,500mg,As needed,2024-12-12,2025-05-09,Fatigue
+P_273,Ibuprofen,50mg,As needed,2024-11-06,2025-04-07,None
+P_274,Ibuprofen,50mg,Once a day,2025-02-09,2025-03-06,Headache
+P_275,Metformin,250mg,Twice a day,2024-08-11,2025-04-08,None
+P_276,Aspirin,500mg,As needed,2024-10-19,2025-05-01,Nausea
+P_277,Metformin,250mg,Once a day,2024-09-26,2025-03-16,None
+P_278,Aspirin,100mg,Once a day,2024-10-01,2025-02-25,Fatigue
+P_279,Metformin,20mg,As needed,2025-01-09,2025-02-26,Dizziness
+P_280,Amoxicillin,100mg,Twice a day,2025-02-06,2025-03-10,Fatigue
+P_281,Metformin,20mg,Once a day,2024-11-28,2025-05-05,Fatigue
+P_282,Amoxicillin,20mg,Twice a day,2024-12-05,2025-02-28,Dizziness
+P_283,Ibuprofen,250mg,Once a day,2024-11-29,2025-04-17,None
+P_284,Lisinopril,50mg,Twice a day,2024-08-18,2025-03-12,Fatigue
+P_285,Lisinopril,100mg,As needed,2024-11-30,2025-04-02,Nausea
+P_286,Amoxicillin,20mg,Once a day,2024-11-28,2025-03-11,Fatigue
+P_287,Metformin,100mg,Once a day,2024-10-24,2025-02-25,Fatigue
+P_288,Amoxicillin,500mg,As needed,2024-10-07,2025-05-06,Headache
+P_289,Aspirin,50mg,Once a day,2024-08-20,2025-04-26,None
+P_290,Aspirin,250mg,Once a day,2024-09-01,2025-03-22,None
+P_291,Amoxicillin,50mg,Once a day,2024-08-30,2025-03-24,Fatigue
+P_292,Lisinopril,250mg,As needed,2024-11-19,2025-04-23,None
+P_293,Aspirin,100mg,Twice a day,2024-08-22,2025-03-29,None
+P_294,Aspirin,500mg,Once a day,2024-09-08,2025-05-16,Nausea
+P_295,Amoxicillin,250mg,Twice a day,2024-11-03,2025-05-13,Dizziness
+P_296,Amoxicillin,250mg,As needed,2024-08-22,2025-05-13,Dizziness
+P_297,Amoxicillin,500mg,Once a day,2025-01-01,2025-04-07,Dizziness
+P_298,Ibuprofen,250mg,Once a day,2024-12-23,2025-05-14,Nausea
+P_299,Metformin,500mg,As needed,2024-09-06,2025-05-01,None
+P_300,Metformin,50mg,Once a day,2025-02-06,2025-03-14,Fatigue
+P_301,Aspirin,100mg,Twice a day,2024-11-21,2025-05-07,Dizziness
+P_302,Amoxicillin,500mg,Twice a day,2024-08-29,2025-03-04,None
+P_303,Metformin,20mg,As needed,2024-08-17,2025-03-17,Fatigue
+P_304,Aspirin,500mg,As needed,2024-12-28,2025-03-19,Nausea
+P_305,Lisinopril,100mg,Once a day,2024-11-08,2025-04-29,Nausea
+P_306,Aspirin,50mg,As needed,2024-10-28,2025-05-14,Nausea
+P_307,Ibuprofen,500mg,Once a day,2024-11-06,2025-03-27,Nausea
+P_308,Ibuprofen,500mg,As needed,2025-01-05,2025-05-17,Fatigue
+P_309,Aspirin,250mg,As needed,2024-10-11,2025-03-19,Headache
+P_310,Lisinopril,250mg,Once a day,2024-08-14,2025-03-12,None
+P_311,Metformin,100mg,Once a day,2024-08-13,2025-03-13,Dizziness
+P_312,Ibuprofen,500mg,Twice a day,2024-08-13,2025-03-31,Nausea
+P_313,Amoxicillin,500mg,Twice a day,2024-08-17,2025-05-08,Fatigue
+P_314,Metformin,50mg,Twice a day,2024-09-06,2025-04-13,Headache
+P_315,Metformin,50mg,Twice a day,2025-01-16,2025-05-19,Dizziness
+P_316,Amoxicillin,20mg,As needed,2024-11-08,2025-04-06,Headache
+P_317,Aspirin,50mg,Once a day,2024-12-28,2025-03-22,Nausea
+P_318,Amoxicillin,50mg,Once a day,2024-08-30,2025-05-02,Headache
+P_319,Amoxicillin,100mg,Once a day,2025-01-11,2025-05-10,Nausea
+P_320,Lisinopril,20mg,As needed,2024-10-02,2025-05-05,Fatigue
+P_321,Amoxicillin,20mg,Once a day,2024-08-20,2025-05-12,None
+P_322,Aspirin,50mg,As needed,2024-12-29,2025-03-29,Headache
+P_323,Aspirin,250mg,Once a day,2024-12-23,2025-04-04,Dizziness
+P_324,Aspirin,250mg,Once a day,2024-10-04,2025-04-14,Dizziness
+P_325,Aspirin,20mg,Twice a day,2025-01-26,2025-04-22,None
+P_326,Ibuprofen,20mg,As needed,2024-11-09,2025-03-26,Headache
+P_327,Metformin,100mg,Twice a day,2025-01-12,2025-04-13,Headache
+P_328,Amoxicillin,250mg,Twice a day,2024-12-16,2025-05-11,Fatigue
+P_329,Ibuprofen,50mg,Once a day,2024-10-06,2025-04-03,Dizziness
+P_330,Aspirin,20mg,Twice a day,2024-10-31,2025-03-02,None
+P_331,Metformin,250mg,As needed,2024-10-05,2025-03-04,Nausea
+P_332,Aspirin,50mg,Once a day,2024-12-14,2025-03-30,Fatigue
+P_333,Amoxicillin,250mg,As needed,2024-08-17,2025-04-11,None
+P_334,Ibuprofen,50mg,Once a day,2024-09-07,2025-03-31,Fatigue
+P_335,Metformin,50mg,As needed,2024-12-11,2025-05-04,Dizziness
+P_336,Metformin,20mg,As needed,2024-09-27,2025-04-21,Dizziness
+P_337,Amoxicillin,250mg,As needed,2025-01-21,2025-03-21,Fatigue
+P_338,Aspirin,50mg,Once a day,2024-09-11,2025-03-23,None
+P_339,Amoxicillin,20mg,As needed,2024-11-04,2025-04-28,Headache
+P_340,Amoxicillin,250mg,As needed,2025-01-19,2025-04-14,Nausea
+P_341,Ibuprofen,100mg,Twice a day,2024-10-23,2025-02-27,Dizziness
+P_342,Lisinopril,50mg,As needed,2025-01-15,2025-05-13,None
+P_343,Metformin,50mg,Twice a day,2025-01-06,2025-05-02,None
+P_344,Ibuprofen,20mg,Twice a day,2025-02-01,2025-04-24,Dizziness
+P_345,Ibuprofen,100mg,Twice a day,2025-02-03,2025-04-28,None
+P_346,Aspirin,50mg,As needed,2025-01-31,2025-04-06,None
+P_347,Metformin,20mg,Twice a day,2024-12-11,2025-04-20,None
+P_348,Amoxicillin,100mg,As needed,2025-02-02,2025-05-20,Headache
+P_349,Amoxicillin,250mg,Twice a day,2024-09-14,2025-05-05,Nausea
